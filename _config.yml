@@ -1,0 +1,16 @@
+title: Gwanghyun (Bradley) Kim
+position: M.S. Student
+affiliation: BISPL, KAIST, Korea
+email: gwang.kim (at) kaist.ac.kr
+keywords: Computer Vision (CV), Machine Learning (ML), Signal Processing (SP), Medical Imaging (MI)
+google_scholar: https://scholar.google.co.kr/citations?user=Jh17Y_UAAAAJ&hl=ko
+github_link: https://github.com/gwang-kim/
+cv_link: https://drive.google.com/file/d/18NRUWAVxHYQ-yAqkxKcW7UQRSiiEf42M/view?usp=sharing
+linkedin: https://www.linkedin.com/in/gwanghyun-kim-33596a17a
+avatar: ./assets/img/ghk.png
+google_analytics: UA-111540567-4
+favicon: ./assets/img/happy_favicon.png
+favicon_dark: ./assets/img/happy_favicon.png
+description: Bradley's blog
+canonical: https://gwang-kim.github.io/
+remote_theme: gwang-kim/gwang-kim.github.io
