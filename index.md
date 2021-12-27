@@ -13,12 +13,13 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 - **Generative models** and their applications (Diffusion models, GANs)
 - **Privacy-preserving distributed learning** (Federated learning, Split learning)
 - **Weakly- and Self-supervised learning**
-- **Transformers for vision** and their applications
+- **Transformers for vision** and their applications[
 - **Multi-modal learning**  
 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
+- **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do).
 - **[Nov. 2021]** Our [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on ViT for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
 - **[Sep. 2021]** Our [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
@@ -97,8 +98,22 @@ but not limited to.
   <br>
   NVIDIA AI Developer Meetup, Online, 2020
 
-[//]: # (## Services)
+## Projects
 
+- **Development of AI Modules for Smart X-ray Screening Systems**
+  <br>
+  Conducted by Korea Customs Service, 2021 - 2021
+  <br>
+  Algorithm development
+
+- **AI Chest X-ray Rapid Diagnosis**
+  <br>
+  Conducted by Korea Aid for Respiratory Epidemic, 2020 - 2021
+  <br>
+  Algorithm development, System deployment, Clinical trial preparation
+
+
+[//]: # (## Services)
 [//]: # ()
 [//]: # (- Conference Reviewers: NeurIPS 2020, CVPR 2020.)
 
