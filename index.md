@@ -19,8 +19,8 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
-- **[Nov. 2021]** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on Vision Transformer for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
-- **[Sep. 2021]** [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
+- **[Nov. 2021]** Our [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on ViT for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
+- **[Sep. 2021]** Our [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
 ## Publications
