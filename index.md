@@ -19,9 +19,9 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
-- **[Nov. 2021]** Paper on Vision Transformer for COVID-19 was accepted to Medical Image Analysis.
-- **[Sep. 2021]** Paper on distributed learning was accepted to NeurIPS 2021.
-- **[Dec. 2020]** We won 2nd place award in NVIDIA AI Healthcare Hackathon.
+- **[Nov. 2021]** Paper on Vision Transformer for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
+- **[Sep. 2021]** Paper on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
+- **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
 ## Publications
 
