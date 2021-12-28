@@ -13,7 +13,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 - **Generative models** and their applications (Diffusion models, GANs)
 - **Privacy-preserving distributed learning** (Federated learning, Split learning)
 - **Weakly- and Self-supervised learning**
-- **Transformers for vision** and their applications[
+- **Transformers for vision** and their applications
 - **Multi-modal learning**  
 
 but not limited to.
