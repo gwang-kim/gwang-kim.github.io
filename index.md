@@ -90,10 +90,10 @@ but not limited to.
 
 ## Awards and Honors
 
-- **The Best Master Student for the Year Award at BISPL, KAIST**, Dec. 2021
+- **Best Master Student for the Year Award**, BISPL, KAIST, Dec. 2021
 - **2nd Place Award in NVIDIA AI Healthcare Hackathon**, Dec. 2020
 - **KAIST Scholarship**, Spring 2020, Fall 2020, Spring 2021, Fall 2021
-- **Honors Scholarship at Yonsei University**, Spring 2018, Fall 2018
+- **Honors Scholarship**, Yonsei University, Spring 2018, Fall 2018
   
 ## Invited Talks
 
