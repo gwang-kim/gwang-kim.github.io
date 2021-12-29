@@ -19,6 +19,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
+- **[Dec. 2021]** I won [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do), Korea.
 - **[Dec. 2021]** [Paper](https://arxiv.org/pdf/2110.02711.pdf) on text-guided diffusion models for image manipulation is available on arXiv.
 - **[Nov. 2021]** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on ViT for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
@@ -89,6 +90,7 @@ but not limited to.
 
 ## Awards and Honors
 
+- **BISPL Best Master Student for the Year Award**, Dec. 2021
 - **2nd Place Award in NVIDIA AI Healthcare Hackathon**, Dec. 2020
 - **KAIST Scholarship**, Spring 2020, Fall 2020, Spring 2021, Fall 2021
 - **Honors Scholarship at Yonsei University**, Spring 2018, Fall 2018
