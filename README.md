@@ -15,3 +15,5 @@ The code is based on the following repositories:
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
 
 * [yaoyao-liu/minimal-light](https://github.com/yaoyao-liu/minimal-light)
+
+* [Testing GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
