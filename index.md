@@ -33,7 +33,7 @@ but not limited to.
   <br>
   **Gwanghyun Kim**, T. Kwon, J. C. Ye 
   <br>
-  **CVPR 2022 (To be appeared.)**
+  **CVPR 2022**
   <br>
 [[PDF](https://arxiv.org/pdf/2110.02711.pdf)] 
 
