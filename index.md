@@ -20,7 +20,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
-- **[Mar. 2022]** [Paper](https://arxiv.org/pdf/2110.02711.pdf) on text-guided diffusion models for robust image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
+- **[Mar. 2022]** [Paper](https://arxiv.org/pdf/2110.02711.pdf) on text-guided diffusion models for robust zero-shot image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do), Korea.
 - **[Nov. 2021]** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on ViT for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
