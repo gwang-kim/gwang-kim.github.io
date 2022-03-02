@@ -20,14 +20,23 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
+- **[Mar. 2022]** [Paper](https://arxiv.org/pdf/2110.02711.pdf) on text-guided diffusion models for robust image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do), Korea.
-- **[Dec. 2021]** [Paper](https://arxiv.org/pdf/2110.02711.pdf) on text-guided diffusion models for image manipulation is available on arXiv.
 - **[Nov. 2021]** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on ViT for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
 - **[Sep. 2021]** [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
 ## Publications
+
+- **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
+  <br>
+  **Gwanghyun Kim**, T. Kwon, J. C. Ye 
+  <br>
+  **CVPR 2022 (To be appeared.)**
+  <br>
+[[PDF](https://arxiv.org/pdf/2110.02711.pdf)] 
+
 
 - **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**
   <br>
@@ -49,14 +58,6 @@ but not limited to.
 
 
 ## Preprints
-
-- **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
-  <br>
-  **Gwanghyun Kim**, T. Kwon, J. C. Ye 
-  <br>
-  arXiv:2110.02711, 2021
-  <br>
-[[PDF](https://arxiv.org/pdf/2110.02711.pdf)] 
 
 - **Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer**
   <br>
