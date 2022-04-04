@@ -35,7 +35,7 @@ but not limited to.
   <br>
   **CVPR 2022**
   <br>
-[[PDF](https://arxiv.org/pdf/2110.02711.pdf)] 
+[[PDF](https://arxiv.org/pdf/2110.02711.pdf)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  
 
 
 - **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**
