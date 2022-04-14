@@ -1,4 +1,4 @@
----
+b      v qj ---
 layout: homepage
 ---
 
@@ -35,7 +35,7 @@ but not limited to.
   <br>
   **CVPR 2022**
   <br>
-[[PDF](https://arxiv.org/pdf/2110.02711.pdf)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  
+[[PDF](https://arxiv.org/pdf/2110.02711.pdf)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  [[Demo](https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing)]
 
 
 - **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**
@@ -58,6 +58,15 @@ but not limited to.
 
 
 ## Preprints
+
+- **AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation**
+  <br>
+  S. Park, **Gwanghyun Kim**, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim,  C. M. Park, J. C. Ye
+  <br>
+  arXiv:2103.07062, 2021
+  <br>
+  [[PDF](https://arxiv.org/pdf/2202.06431.pdf)] 
+
 
 - **Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer**
   <br>
