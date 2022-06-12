@@ -35,7 +35,7 @@ but not limited to.
   <br>
   **CVPR 2022**
   <br>
-[[PDF](https://arxiv.org/pdf/2110.02711.pdf)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  [[Demo](https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  [[Demo](https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing)] [[Video](https://youtu.be/YVCtaXw6fw8)] [[Poster](https://drive.google.com/file/d/1QgRFIRba492dCZ6v7BcZB9zqyp91aTjL/view?usp=sharing)]
 
 
 - **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**
@@ -44,7 +44,7 @@ but not limited to.
   <br>
   **NeurIPS 2021**
   <br>
-[[PDF](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf)] 
+[[Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf)] 
 
 [//]: # (  [[PDF]&#40;https://arxiv.org/pdf/2002.10211.pdf&#41;] [[Code]&#40;https://github.com/yaoyao-liu/mnemonics&#41;]  <strong><i style="color:#e74d3c">Oral Presentation</i></strong>)
 
@@ -54,7 +54,7 @@ but not limited to.
   <br>
   **Medical Image Analysis, 2021**
   <br>
-  [[PDF](https://www.sciencedirect.com/science/article/pii/S1361841521003443)] 
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443)] 
 
 
 ## Preprints
@@ -65,7 +65,7 @@ but not limited to.
   <br>
   arXiv:2202.06431, 2022
   <br>
-  [[PDF](https://arxiv.org/pdf/2202.06431.pdf)] 
+  [[Paper](https://arxiv.org/pdf/2202.06431.pdf)] 
 
 
 - **Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer**
@@ -74,7 +74,7 @@ but not limited to.
   <br>
   arXiv:2103.07062, 2021
   <br>
-  [[PDF](https://arxiv.org/pdf/2103.07062.pdf)] 
+  [[Paper](https://arxiv.org/pdf/2103.07062.pdf)] 
 
 - **Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus**
   <br>
@@ -82,7 +82,7 @@ but not limited to.
   <br>
   arXiv:2103.07055, 2021
   <br>
-  [[PDF](https://arxiv.org/pdf/2103.07055.pdf)]
+  [[Paper](https://arxiv.org/pdf/2103.07055.pdf)]
 
 
 ## Patents
