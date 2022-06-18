@@ -20,7 +20,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
-- **[Jun. 2022]** [Paper](https://arxiv.org/pdf/2103.07062.pdf) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
+- **[Jun. 2022]** [Paper](https://arxiv.org/abs/2202.06431) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
 - **[Mar. 2022]** [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) on text-guided diffusion models for robust zero-shot image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do), Korea.
