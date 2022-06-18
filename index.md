@@ -37,7 +37,7 @@ but not limited to.
   <br>
   **Nature Communications** (in press), 2022
   <br>
-  [[Paper](https://arxiv.org/pdf/2202.06431.pdf)] 
+  [[Paper](https://arxiv.org/abs/2202.06431)] 
 
 - **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
   <br>
