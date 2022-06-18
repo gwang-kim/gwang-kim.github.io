@@ -35,7 +35,7 @@ but not limited to.
   <br>
   S. Park, **Gwanghyun Kim**, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim,  C. M. Park, J. C. Ye
   <br>
-  Nature Communications, 2022
+  **Nature Communications** (in press), 2022
   <br>
   [[Paper](https://arxiv.org/pdf/2202.06431.pdf)] 
 
