@@ -20,7 +20,8 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
-- **[Jun. 2022]** [Paper](https://arxiv.org/abs/2202.06431) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
+- **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was accepted to oral session in [KCCV 2022](http://kccv2022.kcvs.kr/).
+- **[Jun. 2022]** [Paper](https://www.nature.com/articles/s41467-022-31514-x) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
 - **[Mar. 2022]** [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) on text-guided diffusion models for robust zero-shot image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do), Korea.
@@ -35,9 +36,9 @@ but not limited to.
   <br>
   S. Park, **Gwanghyun Kim**, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim,  C. M. Park, J. C. Ye
   <br>
-  **Nature Communications** (in press), 2022
+  **Nature Communications**, 2022
   <br>
-  [[Paper](https://arxiv.org/abs/2202.06431)] 
+  [[Paper](https://www.nature.com/articles/s41467-022-31514-x)] 
 
 - **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
   <br>
@@ -45,7 +46,7 @@ but not limited to.
   <br>
   **CVPR 2022**
   <br>
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  [[Demo](https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing)] [[Video](https://youtu.be/YVCtaXw6fw8)] [[Poster](https://drive.google.com/file/d/1QgRFIRba492dCZ6v7BcZB9zqyp91aTjL/view?usp=sharing)]
+[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  [[Demo](https://replicate.com/gwang-kim/diffusionclip)] [[Colab](https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing)] [[Video](https://youtu.be/YVCtaXw6fw8)] [[Poster](https://drive.google.com/file/d/1QgRFIRba492dCZ6v7BcZB9zqyp91aTjL/view?usp=sharing)]
 
 
 - **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**
