@@ -20,7 +20,8 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
-- **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was accepted to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
+- **[Aug. 2022]** I had a presentation titled "Diffusion Models for Vision-Language Tasks" at [Kakao Brain Open Seminar](https://www.kakaobrain.com/).
+- **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
 - **[Jun. 2022]** [Paper](https://www.nature.com/articles/s41467-022-31514-x) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
 - **[Mar. 2022]** [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) on text-guided diffusion models for robust zero-shot image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
