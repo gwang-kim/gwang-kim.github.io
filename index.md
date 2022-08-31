@@ -112,9 +112,13 @@ but not limited to.
   
 ## Invited Talks
 
+- **Diffusion Models for Vision-Language Tasks**
+  <br>
+  Kakao Brain Open Seminar, Kakao Brain, 2022
+
 - **Deep Learning based Diagnosis of Infectious Diseases on CXR and Audio data**
   <br>
-  NVIDIA AI Developer Meetup, Online, 2020
+  NVIDIA AI Developer Meetup, Online, 2021
 
 ## Projects
 
