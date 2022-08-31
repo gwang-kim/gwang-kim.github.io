@@ -112,6 +112,10 @@ but not limited to.
   
 ## Invited Talks
 
+- **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
+  <br>
+  London Machine Learning Meetup, Online, 2022
+
 - **Diffusion Models for Vision-Language Tasks**
   <br>
   Kakao Brain Open Seminar, Kakao Brain, 2022
