@@ -92,23 +92,23 @@ but not limited to.
 
 ## Patents
 
-- **VISION TRANSFORMER USING LOW-LEVEL CHEST X-RAY FEATURE CORPUS FOR COVID-19 AND SEVERITY QUANTIFICATION**
+- **Severity quantification and lesion localization method of infectious disease on cxr using vision transformer and apparatus therefor**
   <br>
   J. C. Ye, S. Park, **Gwanghyun Kim**
   <br>
-  Korea Patent, 10-2021-0039509, filed, 2021
+  U.S. Patent Application, No. 17/704,879, 2022
 
-- **DATA PREPROCESSING AND LOCAL-PATCH BASED INFECTIOUS DISEASE CLASSIFICATION METHOD ON CHEST X-RAY RADIOGRAPH AND APPARATUS THEREFORE**
+- **Method of classifying lesion of chest x-ray radiograph based on data normalization and local patch and apparatus thereof**
   <br>
   J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**.
   <br>
-  US Patent, 17231633, filed, 2021
+  U.S. Patent Application, No. 17/352,229, 2022
 
 ## Awards and Honors
-
-- **Best Master Student for the Year Award**, BISPL, KAIST, Dec. 2021
-- **2nd Place Award in NVIDIA AI Healthcare Hackathon**, Dec. 2020
-- **KAIST Scholarship**, KAIST, Spring 2020, Fall 2020, Spring 2021, Fall 2021
+- **Brain Korea 21 (BK21) Scholarships**, Korea Research Foundation, 2022 -
+- **Best Master Student for the Year Award**, BISPL, KAIST, 2021
+- **2nd Place Award in NVIDIA AI Healthcare Hackathon**, 2020
+- **KAIST Scholarship**, KAIST, 2020 - 2021
 - **Honors Scholarship**, Yonsei University, Spring 2018, Fall 2018
   
 ## Invited Talks
