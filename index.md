@@ -33,71 +33,159 @@ but not limited to.
 
 ## Research
 
-
-- **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
-  <br>
-  **Gwanghyun Kim**, S. Y. Chun
-  <br>
-  arXiv:2211.16374, 2022
-  <br>
-  [[Paper](https://arxiv.org/pdf/2211.16374.pdf)] [[Project page](https://datid-3d.github.io)]  
+<div class="publications">
+<ol class="bibliography">
 
 
 
 
-- **AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation**
-  <br>
-  S. Park, **Gwanghyun Kim**, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim,  C. M. Park, J. C. Ye
-  <br>
-  **Nature Communications**, 2022
-  <br>
-  [[Paper](https://www.nature.com/articles/s41467-022-31514-x)] 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <video id="teaser" autoplay muted loop playsinline height="100%">
+        <source src="assets/research/datid_3d.mp4"
+                type="video/mp4">
+      </video>
+  </div>
+  <div id="datid_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2211.16374.pdf">DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong>, S. Y. Chun </div>
+      <div class="periodical"><em><strong>arXiv, 2022</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2211.16374.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://datid-3d.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/self_evolving.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Nat. Commun.</abbr>
+  </div>
+  <div id="mt_vit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://www.nature.com/articles/s41467-022-31514-x">AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation</a></div>
+      <div class="author">S. Park, <strong>Gwanghyun Kim</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim,  C. M. Park, J. C. Ye </div>
+      <div class="periodical"><em><strong>Nature Communications 2022 </strong></em><strong>(IF: 17.694)</strong>
+      </div>
+    <div class="links">
+      <a href="https://www.nature.com/articles/s41467-022-31514-x" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
-- **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
-  <br>
-  **Gwanghyun Kim**, T. Kwon, J. C. Ye 
-  <br>
-  **CVPR 2022**
-  <br>
-[[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html)] [[Code](https://github.com/gwang-kim/DiffusionCLIP)]  [[Demo](https://replicate.com/gwang-kim/diffusionclip)] [[Colab](https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing)] [[Video](https://youtu.be/YVCtaXw6fw8)] [[Poster](https://drive.google.com/file/d/1QgRFIRba492dCZ6v7BcZB9zqyp91aTjL/view?usp=sharing)]
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/diffusionclip.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">CVPR</abbr>
+  </div>
+  <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2110.02711.pdf">DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong>, T. Kwon, J. C. Ye </div>
+      <div class="periodical"><em><strong>CVPR 2022</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2110.02711.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/gwang-kim/DiffusionCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://replicate.com/gwang-kim/diffusionclip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+      <a href="https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Colab</a>
+      <a href="https://youtu.be/YVCtaXw6fw8" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+      <a href="https://drive.google.com/file/d/1QgRFIRba492dCZ6v7BcZB9zqyp91aTjL/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="https://github.com/gwang-kim/DiffusionCLIP" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
+  <script>
+  githubStars("gwang-kim/DiffusionCLIP", function(stars) {
+  var startext = document.getElementById("githubstars_manets");
+        startext.innerHTML=stars;
+  });
+  </script>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/festa.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS</abbr>
+  </div>
+  <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf">Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training</a></div>
+      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, J. Kim, B. Kim, J. C. Ye <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>NeurIPS 2021 </strong></em>
+      </div>
+    <div class="links">
+      <a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
-- **Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training**
-  <br>
-  S. Park\*, **Gwanghyun Kim\***, J. Kim, B. Kim, J. C. Ye **(\*co-first authors)**
-  <br>
-  **NeurIPS 2021**
-  <br>
-[[Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf)] 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/mt_vit.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Med. Image Anal.</abbr>
+  </div>
+  <div id="mt_vit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003443">Multi-task Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification</a></div>
+      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>Medical Image Analysis, 2021 </strong></em><strong>(IF: 13.828)</strong>
+      </div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1361841521003443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
-- **Multi-task Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification**
-  <br>
-  S. Park\*,  **Gwanghyun Kim\***, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye **(\*co-first authors)**
-  <br>
-  **Medical Image Analysis, 2021**
-  <br>
-  [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443)] 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/vit_sev.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="vit_sev" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2103.07062.pdf">Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong>, S. Park, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye </div>
+      <div class="periodical"><em><strong>arXiv, 2021</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2103.07062.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
-- **Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer**
-  <br>
-  **Gwanghyun Kim**, S. Park, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye
-  <br>
-  arXiv:2103.07062, 2021
-  <br>
-  [[Paper](https://arxiv.org/pdf/2103.07062.pdf)] 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/vit_covid.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="vit_covid" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2103.07055.pdf">Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus</a></div>
+      <div class="author">S. Park, <strong>Gwanghyun Kim</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye </div>
+      <div class="periodical"><em><strong>arXiv, 2021</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2103.07055.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
-- **Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus**
-  <br>
-  S. Park, **Gwanghyun Kim**, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye
-  <br>
-  arXiv:2103.07055, 2021
-  <br>
-  [[Paper](https://arxiv.org/pdf/2103.07055.pdf)]
 
-
+</ol>
+</div>
 
 ## Patents
 
@@ -144,22 +232,21 @@ but not limited to.
 
 [//]: # (  Fast Campus, Online, 2022-2023)
 
-## Services
-
-<h4 style="margin:0 10px 0;">Reviewers</h4>
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-<li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023</autocolor></a></li>
-</ul>
-
 [//]: # (## Services)
 
 [//]: # ()
-[//]: # ()
-[//]: # (- Conference Reviewers: NeurIPS 2020, CVPR 2020.)
+[//]: # (<h4 style="margin:0 10px 0;">Reviewers</h4>)
 
-[//]: # ()
-[//]: # (- Journal Reviewers: T-PAMI)
+[//]: # (<ul style="margin:0 0 20px;">)
+
+[//]: # (  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence &#40;TPAMI&#41;</autocolor></a></li>)
+
+[//]: # (<li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition &#40;CVPR&#41; 2023</autocolor></a></li>)
+
+[//]: # (</ul>)
+
+## Services
+- **Reviewers:** T-PAMI, CVPR 2023 
 
 
 ## Projects
