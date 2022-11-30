@@ -42,7 +42,7 @@ but not limited to.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <video id="teaser" autoplay muted loop playsinline class="teaser" width="60%" > 
+    <video id="teaser" autoplay muted loop playsinline class="vteaser" width="60%" > 
         <source src="assets/research/datid_3d.mp4"
                 type="video/mp4">
       </video>
