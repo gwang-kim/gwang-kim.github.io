@@ -196,7 +196,7 @@ but not limited to.
 
 - **Method of classifying lesion of chest x-ray radiograph based on data normalization and local patch and apparatus thereof**
   <br>
-  J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**.
+  J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**
   <br>
   U.S. Patent Application, No. 17/352,229, 2022
 
