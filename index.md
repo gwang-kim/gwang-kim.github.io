@@ -42,10 +42,7 @@ but not limited to.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <video id="teaser" autoplay muted loop playsinline class="vteaser" width="60%" > 
-        <source src="assets/research/datid_3d.mp4"
-                type="video/mp4">
-      </video>
+    <img src="./assets/research/datid_3d.gif" class="teaser img-fluid z-depth-1">
   </div>
   <div id="datid_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2211.16374.pdf">DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model</a></div>
@@ -59,6 +56,8 @@ but not limited to.
   </div>
 </div>
 </li>
+
+
 
 <li>
 <div class="pub-row">
