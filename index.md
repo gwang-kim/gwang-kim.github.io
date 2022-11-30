@@ -113,7 +113,7 @@ but not limited to.
 
 ## Awards and Honors
 
-[//]: # (- **Brain Korea 21 &#40;BK21&#41; Scholarships**, Korea Research Foundation, 2022 -)
+- **Brain Korea 21 (BK21) Scholarships**, Korea Research Foundation, 2022 -
 - **Best Master Student for the Year Award**, BISPL, KAIST, 2021
 - **2nd Place Award in NVIDIA AI Healthcare Hackathon**, 2020
 - **KAIST Scholarship**, KAIST, 2020 - 2021
@@ -150,6 +150,14 @@ but not limited to.
 <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023</autocolor></a></li>
 </ul>
 
+[//]: # (## Services)
+
+[//]: # ()
+[//]: # ()
+[//]: # (- Conference Reviewers: NeurIPS 2020, CVPR 2020.)
+
+[//]: # ()
+[//]: # (- Journal Reviewers: T-PAMI)
 
 
 ## Projects
@@ -167,8 +175,3 @@ but not limited to.
   Algorithm development, System deployment, Clinical trial preparation
 
 
-[//]: # (## Services)
-[//]: # ()
-[//]: # (- Conference Reviewers: NeurIPS 2020, CVPR 2020.)
-
-[//]: # (- Journal Reviewers: T-PAMI, IJCV.)
