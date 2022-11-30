@@ -20,6 +20,7 @@ My research interests lie broadly in the field of computer vision (CV), machine 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
+- **[Nov. 2022]** [Paper](https://arxiv.org/pdf/2211.16374.pdf) on diverse-preserved text-guided domain adaptation for 3D generative models is available on arXiv.
 - **[Aug. 2022]** I had a presentation titled "Diffusion Models for Vision-Language Tasks" at [Kakao Brain Open Seminar](https://www.kakaobrain.com/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
 - **[Jun. 2022]** [Paper](https://www.nature.com/articles/s41467-022-31514-x) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
@@ -71,7 +72,13 @@ but not limited to.
 
 ## Preprints
 
-
+- **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
+  <br>
+  **Gwanghyun Kim**, S. Y. Chun
+  <br>
+  arXiv:2211.16374, 2022
+  <br>
+  [[Paper](https://arxiv.org/pdf/2211.16374.pdf)] [[Project page](https://datid-3d.github.io)]  
 
 - **Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer**
   <br>
@@ -105,7 +112,8 @@ but not limited to.
   U.S. Patent Application, No. 17/352,229, 2022
 
 ## Awards and Honors
-- **Brain Korea 21 (BK21) Scholarships**, Korea Research Foundation, 2022 -
+
+[//]: # (- **Brain Korea 21 &#40;BK21&#41; Scholarships**, Korea Research Foundation, 2022 -)
 - **Best Master Student for the Year Award**, BISPL, KAIST, 2021
 - **2nd Place Award in NVIDIA AI Healthcare Hackathon**, 2020
 - **KAIST Scholarship**, KAIST, 2020 - 2021
@@ -124,6 +132,25 @@ but not limited to.
 - **Deep Learning based Diagnosis of Infectious Diseases on CXR and Audio data**
   <br>
   NVIDIA AI Developer Meetup, Online, 2021
+
+[//]: # (## Teaching)
+
+[//]: # ()
+[//]: # (- **Generative Adversarial Networks**)
+
+[//]: # (  <br>)
+
+[//]: # (  Fast Campus, Online, 2022-2023)
+
+## Services
+
+<h4 style="margin:0 10px 0;">Reviewers</h4>
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
+<li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2023</autocolor></a></li>
+</ul>
+
+
 
 ## Projects
 
