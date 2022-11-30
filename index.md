@@ -68,7 +68,7 @@ but not limited to.
   <div id="mt_vit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.nature.com/articles/s41467-022-31514-x">AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation</a></div>
       <div class="author">S. Park, <strong>Gwanghyun Kim</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim,  C. M. Park, J. C. Ye </div>
-      <div class="periodical"><em><strong>Nature Communications 2022 </strong></em><strong>(IF: 17.694)</strong>
+      <div class="periodical"><em><strong>Nature Communications, 2022 </strong></em><strong>(IF: 17.694)</strong>
       </div>
     <div class="links">
       <a href="https://www.nature.com/articles/s41467-022-31514-x" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
