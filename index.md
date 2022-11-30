@@ -31,7 +31,18 @@ but not limited to.
 - **[Sep. 2021]** [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
-## Publications
+## Research
+
+
+- **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
+  <br>
+  **Gwanghyun Kim**, S. Y. Chun
+  <br>
+  arXiv:2211.16374, 2022
+  <br>
+  [[Paper](https://arxiv.org/pdf/2211.16374.pdf)] [[Project page](https://datid-3d.github.io)]  
+
+
 
 
 - **AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation**
@@ -41,6 +52,7 @@ but not limited to.
   **Nature Communications**, 2022
   <br>
   [[Paper](https://www.nature.com/articles/s41467-022-31514-x)] 
+
 
 - **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
   <br>
@@ -59,7 +71,6 @@ but not limited to.
   <br>
 [[Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf)] 
 
-[//]: # (  [[PDF]&#40;https://arxiv.org/pdf/2002.10211.pdf&#41;] [[Code]&#40;https://github.com/yaoyao-liu/mnemonics&#41;]  <strong><i style="color:#e74d3c">Oral Presentation</i></strong>)
 
 - **Multi-task Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification**
   <br>
@@ -69,16 +80,6 @@ but not limited to.
   <br>
   [[Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443)] 
 
-
-## Preprints
-
-- **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
-  <br>
-  **Gwanghyun Kim**, S. Y. Chun
-  <br>
-  arXiv:2211.16374, 2022
-  <br>
-  [[Paper](https://arxiv.org/pdf/2211.16374.pdf)] [[Project page](https://datid-3d.github.io)]  
 
 - **Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer**
   <br>
@@ -95,6 +96,7 @@ but not limited to.
   arXiv:2103.07055, 2021
   <br>
   [[Paper](https://arxiv.org/pdf/2103.07055.pdf)]
+
 
 
 ## Patents
