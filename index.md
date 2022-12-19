@@ -12,10 +12,12 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 ## Research Interests
 My research interests lie broadly in the field of computer vision (CV), machine learning (ML), medical imaging (MI) and signal processing (SP). Specifically, my work explores the following areas:
 - **Generative models** and their applications (Diffusion models, GANs)
+- **Multi-modal learning** (Text-to-Image, Text-to-Video, Speech-to-Image)  
+- **3D reconstruction and 3D-aware synthesis** 
 - **Privacy-preserving distributed learning** (Federated learning, Split learning)
 - **Weakly- and Self-supervised learning**
 - **Transformers for vision** and their applications
-- **Multi-modal learning**  
+
 
 but not limited to.
 
