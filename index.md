@@ -23,6 +23,8 @@ but not limited to.
 
 ## <b style="color:#F88017">News</b>
 
+[//]: # (- **[Apr. 2023]** [Paper]&#40;https://arxiv.org/pdf/XXXX.XXXXX.pdf&#41; on diffusion-based iterative text oo omni-directional 3D model is available on arXiv.)
+[//]: # (- **[Apr. 2023]** [Paper]&#40;https://arxiv.org/pdf/XXXX.XXXXX.pdf&#41; on domain adaptation of 3D generative model across large domain gap is available on arXiv.)
 - **[Feb. 2023]** [Paper](https://arxiv.org/pdf/2211.16374.pdf) on diverse-preserved text-guided domain adaptation for 3D generative models was accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
 - **[Aug. 2022]** I had a presentation titled "Diffusion Models for Vision-Language Tasks" at [Kakao Brain Open Seminar](https://www.kakaobrain.com/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
@@ -45,6 +47,47 @@ but not limited to.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/podia_3d.gif" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>, J. H. Jang, S. Y. Chun </div>
+      <div class="periodical"><em><strong>arXiv, 2023</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://gwang-kim.github.io/podia_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/gwang-kim/PODIA-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/ditto_nerf.gif" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf">DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model </a></div>
+      <div class="author">H. Seo*, H. Kim*, <strong>Gwanghyun Kim*</strong>, S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>arXiv, 2023</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/datid_3d.gif" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
@@ -55,7 +98,15 @@ but not limited to.
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2211.16374.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://datid-3d.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://gwang-kim.github.io/datid_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/gwang-kim/DATID-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://colab.research.google.com/drive/1e9NSVB7x_hjz-nr4K0jO4rfTXILnNGtA?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Colab</a>
+    <script>
+    githubStars("gwang-kim/DATID-3D", function(stars) {
+    var startext = document.getElementById("githubstars_manets");
+          startext.innerHTML=stars;
+    });
+    </script>
     </div>
   </div>
 </div>
