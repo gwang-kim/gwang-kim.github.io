@@ -26,6 +26,7 @@ but not limited to.
 [//]: # (- **[Apr. 2023]** [Paper]&#40;https://arxiv.org/pdf/XXXX.XXXXX.pdf&#41; on diffusion-based iterative text oo omni-directional 3D model is available on arXiv.)
 [//]: # (- **[Apr. 2023]** [Paper]&#40;https://arxiv.org/pdf/XXXX.XXXXX.pdf&#41; on domain adaptation of 3D generative model across large domain gap is available on arXiv.)
 - **[Feb. 2023]** [Paper](https://arxiv.org/pdf/2211.16374.pdf) on diverse-preserved text-guided domain adaptation for 3D generative models was accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
+- **[Nov. 2022]** I started a new postiion as Lecturer in AI at [FastCampus](https://fastcampus.co.kr/), teaching "[Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)".
 - **[Aug. 2022]** I had a presentation titled "Diffusion Models for Vision-Language Tasks" at [Kakao Brain Open Seminar](https://www.kakaobrain.com/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
 - **[Jun. 2022]** [Paper](https://www.nature.com/articles/s41467-022-31514-x) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
@@ -242,6 +243,14 @@ but not limited to.
 </ol>
 </div>
 
+## Experience
+
+- **Lecturer in AI**
+  <br>
+  Fast Campus, Seoul, Korea, 2022 -
+  <br>
+  Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)
+
 ## Patents
 
 - **Severity quantification and lesion localization method of infectious disease on cxr using vision transformer and apparatus therefor**
@@ -255,6 +264,8 @@ but not limited to.
   J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**
   <br>
   U.S. Patent Application, No. 17/352,229, 2022
+
+
 
 ## Awards and Honors
 
