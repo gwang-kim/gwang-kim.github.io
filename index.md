@@ -52,7 +52,7 @@ but not limited to.
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
-      <div class="author"><strong>Gwanghyun Kim*</strong>, J. H. Jang, S. Y. Chun </div>
+      <div class="author"><strong>Gwanghyun Kim</strong>, J. H. Jang, S. Y. Chun </div>
       <div class="periodical"><em><strong>arXiv, 2023</strong></em>
       </div>
     <div class="links">
