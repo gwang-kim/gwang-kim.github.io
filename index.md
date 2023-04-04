@@ -101,10 +101,10 @@ but not limited to.
       <a href="https://gwang-kim.github.io/datid_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/DATID-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://colab.research.google.com/drive/1e9NSVB7x_hjz-nr4K0jO4rfTXILnNGtA?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Colab</a>
-      <a href="https://github.com/gwang-kim/DATID-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
+      <a href="https://github.com/gwang-kim/DATID-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets2"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
     <script>
     githubStars("gwang-kim/DATID-3D", function(stars) {
-    var startext = document.getElementById("githubstars_manets");
+    var startext = document.getElementById("githubstars_manets2");
           startext.innerHTML=stars;
     });
     </script>
