@@ -43,20 +43,18 @@ but not limited to.
 <ol class="bibliography">
 
 
-
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/podia_3d.gif" class="teaser img-fluid z-depth-1">
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
+      <div class="title"><a href="https://arxiv.org/pdf/2304.01900.pdf">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>, J. H. Jang, S. Y. Chun </div>
       <div class="periodical"><em><strong>arXiv, 2023</strong></em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/XXXX.XXXXX.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2304.01900.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gwang-kim.github.io/podia_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/PODIA-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
@@ -269,7 +267,7 @@ but not limited to.
 
 ## Awards and Honors
 
-- **Brain Korea 21 (BK21) Scholarships**, Korea Research Foundation, 2022 -
+[//]: # (- **Brain Korea 21 &#40;BK21&#41; Scholarships**, Korea Research Foundation, 2022 -)
 - **Best Master Student for the Year Award**, BISPL, KAIST, 2021
 - **2nd Place Award in NVIDIA AI Healthcare Hackathon**, 2020
 - **KAIST Scholarship**, KAIST, 2020 - 2021
@@ -312,7 +310,7 @@ but not limited to.
 [//]: # (</ul>)
 
 ## Services
-- **Reviewers:** T-PAMI, CVPR 2023 
+- **Reviewers:** T-PAMI, ACM Comput Surv, CVPR 2023 
 
 
 ## Projects
