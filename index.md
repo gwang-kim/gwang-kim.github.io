@@ -23,18 +23,18 @@ but not limited to.
 
 ## <b style="color:#F88017">News</b>
 
-- **[Apr. 2023]** [Paper](https://arxiv.org/pdf/2304.01900.pdf) "PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion" is available on arXiv.
-- **[Apr. 2023]** [Paper](https://arxiv.org/pdf/2304.02827.pdf) "DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model" is available on arXiv.
-- **[Feb. 2023]** [Paper](https://arxiv.org/pdf/2211.16374.pdf) "DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model" was accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
+- **[Apr. 2023]** [Paper](https://arxiv.org/pdf/2304.01900.pdf) on text-guided adaptation of 3D generative model across large domain gap is available on arXiv.
+- **[Apr. 2023]** [Paper](https://arxiv.org/pdf/2304.02827.pdf) on text-to-3D & image-to-3D is available on arXiv.
+- **[Feb. 2023]** [Paper](https://arxiv.org/pdf/2211.16374.pdf) on diverse-preserved text-guided domain adaptation for 3D generative models was accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
 - **[Nov. 2022]** I started a new postiion as Lecturer in AI at [FastCampus](https://fastcampus.co.kr/), teaching "[Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)".
 - **[Aug. 2022]** I had a presentation titled "Diffusion Models for Vision-Language Tasks" at [Kakao Brain Open Seminar](https://www.kakaobrain.com/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
-- **[Jun. 2022]** [Paper](https://www.nature.com/articles/s41467-022-31514-x) "AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation" was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
-- **[Mar. 2022]** [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation" was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
+- **[Jun. 2022]** [Paper](https://www.nature.com/articles/s41467-022-31514-x) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
+- **[Mar. 2022]** [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) on text-guided diffusion models for robust zero-shot image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do), Korea.
-- **[Nov. 2021]** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) "Multi-task Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification" was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
-- **[Sep. 2021]** [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) "Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training" was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
+- **[Nov. 2021]** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on ViT for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
+- **[Sep. 2021]** [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
 ## Research
