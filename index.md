@@ -57,6 +57,13 @@ but not limited to.
       <a href="https://arxiv.org/pdf/2304.01900.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gwang-kim.github.io/podia_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/PODIA-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets4"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
+    <script>
+    githubStars("janeyeon/ditto-nerf-code", function(stars) {
+    var startext = document.getElementById("githubstars_manets4");
+          startext.innerHTML=stars;
+    });
+    </script>
     </div>
   </div>
 </div>
@@ -78,6 +85,13 @@ but not limited to.
       <a href="https://arxiv.org/pdf/2304.02827.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
+    <script>
+    githubStars("janeyeon/ditto-nerf-code", function(stars) {
+    var startext = document.getElementById("githubstars_manets3");
+          startext.innerHTML=stars;
+    });
+    </script>
     </div>
   </div>
 </div>
@@ -310,7 +324,7 @@ but not limited to.
 [//]: # (</ul>)
 
 ## Services
-- **Reviewers:** T-PAMI, ACM Comput Surv, CVPR 2023 
+- **Reviewers:** T-PAMI, ACM Comput Surv, CVPR 2023, ICCV 2023
 
 
 ## Projects
