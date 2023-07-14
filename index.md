@@ -2,39 +2,46 @@
 layout: homepage
 ---
 
-## Welcome! 
-
+## Welcome!
 I am a second-year Ph.D. student in electrical and computer engineering (ECE) at Seoul National University (SNU), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi).
   I completed my M.S. in Bio and Brain Engineering (BBE)  at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
 I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University, advised by Prof. [Dong Hyun Kim](http://kimchi.yonsei.ac.kr/default/01/01.php#s1).
 
 
+## Experience
+- **Google Research**, Student Researcher
+  <br>
+  Diffusion models & Multi-modal learning (Sep. 2023 - Nov. 2023)
+- **Fast Campus**, Lecturer in AI
+  <br>
+  Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel) (Nov. 2022 - Present)
+  
+
+
 ## Research Interests
-My research interests lie broadly in the field of computer vision (CV), machine learning (ML), medical imaging (MI) and signal processing (SP). Specifically, my work explores the following areas:
+My research interests lie broadly in the field of computer vision (CV), machine learning (ML). Specifically, my work explores the following areas:
 - **Generative models** and their applications (Diffusion models, GANs)
 - **Multi-modal learning** (Text-to-Image, Text-to-Video, Speech-to-Image)  
 - **3D reconstruction and 3D-aware synthesis** 
 - **Privacy-preserving distributed learning** (Federated learning, Split learning)
 - **Weakly- and Self-supervised learning**
-- **Transformers for vision** and their applications
-
-
+- 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
 
-- **[Apr. 2023]** [Paper](https://arxiv.org/pdf/2304.01900.pdf) on text-guided adaptation of 3D generative model across large domain gap is available on arXiv.
-- **[Apr. 2023]** [Paper](https://arxiv.org/pdf/2304.02827.pdf) on text-to-3D & image-to-3D is available on arXiv.
-- **[Feb. 2023]** [Paper](https://arxiv.org/pdf/2211.16374.pdf) on diverse-preserved text-guided domain adaptation for 3D generative models was accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
+- **[Sep. 2023]** I am joining [Google Research](https://research.google/) as a Student Researcher.
+- **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+- **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
+- **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
 - **[Nov. 2022]** I started a new postiion as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [FastCampus](https://fastcampus.co.kr/).
-- **[Aug. 2022]** I had a presentation on "Diffusion Models for Vision-Language" at [Kakao Brain Open Seminar](https://www.kakaobrain.com/).
-- **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) was invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
-- **[Jun. 2022]** [Paper](https://www.nature.com/articles/s41467-022-31514-x) on self-supervision and self-training on CXR using ViT was accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
-- **[Mar. 2022]** [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) on text-guided diffusion models for robust image manipulation was accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
+- **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
+- **[Jun. 2022]** [DISTL](https://www.nature.com/articles/s41467-022-31514-x) is accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
+- **[Mar. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
-- **[Dec. 2021]** [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) based on our [paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) passed the exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do), Korea.
-- **[Nov. 2021]** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003443) on ViT for COVID-19 was accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
-- **[Sep. 2021]** [Paper](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) on distributed learning was accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
+- **[Dec. 2021]** Our [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) passes exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do).
+- **[Nov. 2021]** [MT-ViT for COVID-19](https://www.sciencedirect.com/science/article/pii/S1361841521003443) is accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
+- **[Sep. 2021]** [FeSTA](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
 ## Research
@@ -47,20 +54,21 @@ but not limited to.
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/podia_3d.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2304.01900.pdf">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>, J. H. Jang, S. Y. Chun </div>
-      <div class="periodical"><em><strong>arXiv, 2023</strong></em>
+      <div class="periodical"><em><strong>ICCV 2023</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2304.01900.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gwang-kim.github.io/podia_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/PODIA-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <!-- <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets4"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
+      <a href="https://github.com/gwang-kim/PODIA-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets5"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
     <script>
-    githubStars("janeyeon/ditto-nerf-code", function(stars) {
-    var startext = document.getElementById("githubstars_manets4");
+    githubStars("gwang-kim/PODIA-3D", function(stars) {
+    var startext = document.getElementById("githubstars_manets5");
           startext.innerHTML=stars;
     });
     </script>
@@ -85,7 +93,7 @@ but not limited to.
       <a href="https://arxiv.org/pdf/2304.02827.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <!-- <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
+      <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
     <script>
     githubStars("janeyeon/ditto-nerf-code", function(stars) {
     var startext = document.getElementById("githubstars_manets3");
@@ -105,12 +113,12 @@ but not limited to.
     <abbr class="badge">CVPR</abbr>
   </div>
   <div id="datid_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2211.16374.pdf">DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model</a></div>
+      <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf">DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>, S. Y. Chun </div>
       <div class="periodical"><em><strong>CVPR 2023</strong></em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2211.16374.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gwang-kim.github.io/datid_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/DATID-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/spaces/gwang-kim/DATID-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
@@ -155,12 +163,12 @@ but not limited to.
             <abbr class="badge">CVPR</abbr>
   </div>
   <div id="diffusionclip" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2110.02711.pdf">DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation</a></div>
+      <div class="title"><a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf">DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>, T. Kwon, J. C. Ye </div>
-      <div class="periodical"><em><strong>CVPR 2022</strong></em>
+      <div class="periodical"><em><strong>CVPR 2022, KCCV 2022 (Oral)</strong></em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2110.02711.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/gwang-kim/DiffusionCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://replicate.com/gwang-kim/diffusionclip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
       <a href="https://colab.research.google.com/drive/1E8QHZ3BbkF6hzk0rRKzhfkySmYf_BZaE?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Colab</a>
@@ -256,13 +264,6 @@ but not limited to.
 </ol>
 </div>
 
-## Experience
-
-- **Lecturer in AI**
-  <br>
-  Fast Campus, Seoul, Korea, 2022 -
-  <br>
-  Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)
 
 ## Patents
 
@@ -290,17 +291,19 @@ but not limited to.
   
 ## Invited Talks
 
+- **Text-driven Control of 2D/3D Image Using Diffusion:
+DiffusionCLIP and DATID-3D**
+  <br>
+  Innerverz Seminar, Innerverz (Remote), 2023
 - **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
   <br>
-  London Machine Learning Meetup, Online, 2022
-
+  London Machine Learning Meetup, London Machine Learning Group (Remote), 2022
 - **Diffusion Models for Vision-Language Tasks**
   <br>
   Kakao Brain Open Seminar, Kakao Brain, 2022
-
 - **Deep Learning based Diagnosis of Infectious Diseases on CXR and Audio data**
   <br>
-  NVIDIA AI Developer Meetup, Online, 2021
+  NVIDIA AI Developer Meetup, NVIDIA (Remote), 2020
 
 [//]: # (## Teaching)
 
@@ -325,21 +328,32 @@ but not limited to.
 [//]: # (</ul>)
 
 ## Services
-- **Reviewers:** T-PAMI, ACM Comput Surv, CVPR 2023, ICCV 2023
+- **Conference reviewers:** CVPR 2023, ICCV 2023, NeurIPS 2023
+- **Journal Reviewers:** T-PAMI, ACM Comput Surv
 
 
-## Projects
+[//]: # (## Projects)
 
-- **Development of AI Modules for Smart X-ray Screening Systems**
-  <br>
-  Conducted by Korea Customs Service, 2021 - 2021
-  <br>
-  Algorithm development
+[//]: # ()
+[//]: # (- **Development of AI Modules for Smart X-ray Screening Systems**)
 
-- **AI Chest X-ray Rapid Diagnosis**
-  <br>
-  Conducted by Korea Aid for Respiratory Epidemic, 2020 - 2021
-  <br>
-  Algorithm development, System deployment, Clinical trial preparation
+[//]: # (  <br>)
+
+[//]: # (  Conducted by Korea Customs Service, 2021 - 2021)
+
+[//]: # (  <br>)
+
+[//]: # (  Algorithm development)
+
+[//]: # ()
+[//]: # (- **AI Chest X-ray Rapid Diagnosis**)
+
+[//]: # (  <br>)
+
+[//]: # (  Conducted by Korea Aid for Respiratory Epidemic, 2020 - 2021)
+
+[//]: # (  <br>)
+
+[//]: # (  Algorithm development, System deployment, Clinical trial preparation)
 
 
