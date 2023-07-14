@@ -9,9 +9,12 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 
 
 ## Experience
-- **Google Research**, Student Researcher
-  <br>
-  Diffusion models & Multi-modal learning (Sep. 2023 - Nov. 2023)
+
+[//]: # (- **Google Research**, Student Researcher)
+
+[//]: # (  <br>)
+
+[//]: # (  Hosted by [Krishna Somandepalli]&#40;https://sail.usc.edu/~somandep/&#41; and [Alonso Martinez]&#40;https://www.linkedin.com/in/alonsomartinez/&#41; &#40;Sep. 2023 - Nov. 2023&#41;)
 - **Fast Campus**, Lecturer in AI
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel) (Nov. 2022 - Present)
@@ -21,7 +24,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 ## Research Interests
 My research interests lie broadly in the field of computer vision (CV), machine learning (ML). Specifically, my work explores the following areas:
 - **Generative models** and their applications (Diffusion models, GANs)
-- **Multi-modal learning** (Text-to-Image, Text-to-Video, Speech-to-Image)  
+- **Multi-modal learning** (Text-Image, Text-Video, Audio-Video)  
 - **3D reconstruction and 3D-aware synthesis** 
 - **Privacy-preserving distributed learning** (Federated learning, Split learning)
 - **Weakly- and Self-supervised learning**
@@ -30,7 +33,7 @@ but not limited to.
 
 ## <b style="color:#F88017">News</b>
 
-- **[Sep. 2023]** I am joining [Google Research](https://research.google/) as a Student Researcher.
+[//]: # (- **[Sep. 2023]** I am joining [Google Research]&#40;https://research.google/&#41; as a Student Researcher.)
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
 - **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
