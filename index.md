@@ -7,16 +7,14 @@ I am a second-year Ph.D. student in electrical and computer engineering (ECE) at
   I completed my M.S. in Bio and Brain Engineering (BBE)  at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
 I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University, advised by Prof. [Dong Hyun Kim](http://kimchi.yonsei.ac.kr/default/01/01.php#s1).
 
-
 ## Experience
 
-- **Google Research**, Student Researcher
+- **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
   Hosted by [Krishna Somandepalli](https://sail.usc.edu/~somandep/) and [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/) (Sep. 2023 - Nov. 2023)
-- **Fast Campus**, Lecturer in AI
+- **Fast campus**, Lecturer in AI
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel) (Nov. 2022 - Present)
-  
 
 
 ## Research Interests
@@ -31,19 +29,19 @@ but not limited to.
 
 ## <b style="color:#F88017">News</b>
 
-- **[Sep. 2023]** I am joining [Google Research](https://research.google/) as a Student Researcher.
+- **[Sep. 2023]** I am joining [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
 - **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
-- **[Nov. 2022]** I started a new postiion as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [FastCampus](https://fastcampus.co.kr/).
+- **[Nov. 2022]** I start a new postiion as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [FastCampus](https://fastcampus.co.kr/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
 - **[Jun. 2022]** [DISTL](https://www.nature.com/articles/s41467-022-31514-x) is accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
 - **[Mar. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
-- **[Dec. 2021]** Our [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) passes exploratory clinical trial by [MFDS](https://www.mfds.go.kr/eng/index.do).
+- **[Dec. 2021]** Our [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) passed exploratory clinical trial.
 - **[Nov. 2021]** [MT-ViT for COVID-19](https://www.sciencedirect.com/science/article/pii/S1361841521003443) is accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
 - **[Sep. 2021]** [FeSTA](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
-- **[Dec. 2020]** We won 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
+- **[Dec. 2020]** We won the 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
 ## Research
 
@@ -284,7 +282,7 @@ but not limited to.
 
 ## Awards and Honors
 
-[//]: # (- **Brain Korea 21 &#40;BK21&#41; Scholarships**, Korea Research Foundation, 2022 -)
+- **Brain Korea 21 (BK21) Scholarships**, Korea Research Foundation, 2022 - 2023
 - **Best Master Student for the Year Award**, BISPL, KAIST, 2021
 - **2nd Place Award in NVIDIA AI Healthcare Hackathon**, 2020
 - **KAIST Scholarship**, KAIST, 2020 - 2021
@@ -306,27 +304,7 @@ DiffusionCLIP and DATID-3D**
   <br>
   NVIDIA AI Developer Meetup, NVIDIA (Remote), 2020
 
-[//]: # (## Teaching)
 
-[//]: # ()
-[//]: # (- **Generative Adversarial Networks**)
-
-[//]: # (  <br>)
-
-[//]: # (  Fast Campus, Online, 2022-2023)
-
-[//]: # (## Services)
-
-[//]: # ()
-[//]: # (<h4 style="margin:0 10px 0;">Reviewers</h4>)
-
-[//]: # (<ul style="margin:0 0 20px;">)
-
-[//]: # (  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence &#40;TPAMI&#41;</autocolor></a></li>)
-
-[//]: # (<li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition &#40;CVPR&#41; 2023</autocolor></a></li>)
-
-[//]: # (</ul>)
 
 ## Services
 - **Conference reviewers:** CVPR 2023, ICCV 2023, NeurIPS 2023
