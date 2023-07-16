@@ -11,8 +11,8 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
-  Hosted by [Krishna Somandepalli](https://sail.usc.edu/~somandep/) and [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/)
-- **Fast campus**, Lecturer in AI
+  Hosted by [Krishna Somandepalli](https://sail.usc.edu/~somandep/) and [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/)  (Sep. 2023 - )
+- **Fast Campus**, Lecturer in AI
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel) (Nov. 2022 - )
 
@@ -33,7 +33,7 @@ but not limited to.
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
 - **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
-- **[Nov. 2022]** I start a new postiion as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [FastCampus](https://fastcampus.co.kr/).
+- **[Nov. 2022]** I start a new postiion as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [Fast Campus](https://fastcampus.co.kr/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
 - **[Jun. 2022]** [DISTL](https://www.nature.com/articles/s41467-022-31514-x) is accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
 - **[Mar. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
