@@ -14,7 +14,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/) and [Krishna Somandepalli](https://sail.usc.edu/~somandep/)  (Sep. 2023 - )
 - **Fast Campus**, Lecturer in AI
   <br>
-  Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel) (Nov. 2022 - )
+  Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel) (Nov. 2022 - Presnet)
 
 
 ## Research Interests
