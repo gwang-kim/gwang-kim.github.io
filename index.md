@@ -11,7 +11,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
-  Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/) and [Krishna Somandepalli](https://sail.usc.edu/~somandep/)  (Anticipated Start Date: Sep. 2023)
+  Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/) and [Krishna Somandepalli](https://sail.usc.edu/~somandep/)  (Starting Sep. 2023)
 - **Fast Campus**, Lecturer in AI
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel) (Nov. 2022 - Presnet)
