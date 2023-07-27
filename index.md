@@ -286,7 +286,7 @@ but not limited to.
 - **[Yulchon AI Star Scholarship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
 - **Brain Korea 21 Scholarships**, Korea Research Foundation, 2022 - 2023
 - **[Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) ($2,000)**, BISPL, KAIST, 2021 
-- **[2nd Place Award in NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia) ($8,500)**, 2020
+- **[2nd Place Award in NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia) ($8,500)**, NVIDIA & GIAI, 2020
 - **KAIST Scholarship**, KAIST, 2020 - 2021
 - **Honors Scholarship**, Yonsei University, Spring 2018, Fall 2018
   
