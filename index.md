@@ -30,6 +30,7 @@ but not limited to.
 ## <b style="color:#F88017">News</b>
 
 - **[Sep. 2023]** I am joining [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
+- **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8000). 
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
 - **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
@@ -37,11 +38,11 @@ but not limited to.
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
 - **[Jun. 2022]** [DISTL](https://www.nature.com/articles/s41467-022-31514-x) is accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
 - **[Mar. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
-- **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
+- **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) ($2000) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** Our [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) passed exploratory clinical trial.
 - **[Nov. 2021]** [MT-ViT for COVID-19](https://www.sciencedirect.com/science/article/pii/S1361841521003443) is accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
 - **[Sep. 2021]** [FeSTA](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
-- **[Dec. 2020]** We won the 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
+- **[Dec. 2020]** We won the 2nd place award ($8500) in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
 
 ## Research
 
@@ -282,9 +283,10 @@ but not limited to.
 
 ## Awards and Honors
 
-- **Brain Korea 21 (BK21) Scholarships**, Korea Research Foundation, 2022 - 2023
-- **Best Master Student for the Year Award**, BISPL, KAIST, 2021
-- **2nd Place Award in NVIDIA AI Healthcare Hackathon**, 2020
+- **[Yulchon AI Star Scholarship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8000)**, Youlchon Foundation & SNU AI Institute, 2023
+- **Brain Korea 21 Scholarships**, Korea Research Foundation, 2022 - 2023
+- **[Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) ($2000)**, BISPL, KAIST, 2021 
+- **[2nd Place Award in NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia) ($8500)**, 2020
 - **KAIST Scholarship**, KAIST, 2020 - 2021
 - **Honors Scholarship**, Yonsei University, Spring 2018, Fall 2018
   
