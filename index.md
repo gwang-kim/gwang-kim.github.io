@@ -30,7 +30,7 @@ but not limited to.
 ## <b style="color:#F88017">News</b>
 
 - **[Sep. 2023]** I am joining [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
-- **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
+- **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
 - **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
@@ -283,7 +283,7 @@ but not limited to.
 
 ## Awards and Honors
 
-- **[Yulchon AI Star Scholarship](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
+- **[Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
 - **Brain Korea 21 Scholarships**, Korea Research Foundation, 2022 - 2023
 - **[Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) ($2,000)**, BISPL, KAIST, 2021 
 - **[2nd Place Award in NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia) ($8,500)**, NVIDIA & GIAI, 2020
