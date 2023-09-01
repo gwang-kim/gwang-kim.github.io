@@ -302,7 +302,7 @@ DiffusionCLIP and DATID-3D**
 - **Diffusion Models for Vision-Language Tasks**
   <br>
   Kakao Brain Open Seminar, Kakao Brain, 2022
-- **Deep Learning based Diagnosis of Infectious Diseases on CXR and Audio data**
+- **Deep Learning-based Diagnosis of Infectious Diseases on CXR and Audio data**
   <br>
   NVIDIA AI Developer Meetup, NVIDIA (Remote), 2020
 
