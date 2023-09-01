@@ -312,6 +312,14 @@ DiffusionCLIP and DATID-3D**
 - **Conference reviewers:** CVPR 2023, ICCV 2023, NeurIPS 2023
 - **Journal Reviewers:** T-PAMI, ACM Comput Surv
 
+## Mentoring
+- **Hoigi Seo (BS@SNU), Hayeon Kim (MS/PhD@SNU): Text-to-3D Generative Models**, Winter 2022 
+<br>
+[DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://arxiv.org/pdf/2304.02827.pdf)
+- **Heechang Kim (BS@SNU): Text-to-4D Generative Models**, Summer 2023
+
+## Extracurricular Activities
+- **Yonsei Mixed Choir ([Avenante](https://www.youtube.com/watch?v=w7OBK5lq7Ug))**, Club president & Section leader, 2014 - 2019
 
 [//]: # (## Projects)
 
