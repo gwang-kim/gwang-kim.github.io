@@ -319,7 +319,7 @@ DiffusionCLIP and DATID-3D**
 - **Heechang Kim (BS@SNU): Text-to-4D Generation**, Summer 2023
 
 ## Extracurricular Activities
-- **Yonsei Mixed Choir ([Avenante](https://www.youtube.com/watch?v=w7OBK5lq7Ug))**, Club president & Section leader, 2014 - 2019
+- **Yonsei Mixed Choir ([Avenante](https://www.youtube.com/watch?v=2namE-aq5xY))**, Club president & Section leader, 2014 - 2019
 
 [//]: # (## Projects)
 
