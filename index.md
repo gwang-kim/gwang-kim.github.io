@@ -315,7 +315,7 @@ DiffusionCLIP and DATID-3D**
 ## Mentoring
 - **Hoigi Seo, Hayeon Kim (BS@SNU): Text-to-3D Generation**, Winter 2022 
 <br>
-[DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://arxiv.org/pdf/2304.02827.pdf)
+[DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://janeyeon.github.io/ditto-nerf)
 - **Heechang Kim (BS@SNU): Text-to-4D Generation**, Summer 2023
 
 ## Extracurricular Activities
