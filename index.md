@@ -313,10 +313,10 @@ DiffusionCLIP and DATID-3D**
 - **Journal Reviewers:** T-PAMI, ACM Comput Surv
 
 ## Mentoring
+-**Heechang Kim (BS@SNU): Text-to-4D Generation**, Summer 2023
 - **Hoigi Seo, Hayeon Kim (BS@SNU): Text-to-3D Generation**, Winter 2022 
 <br>
 [DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model](https://janeyeon.github.io/ditto-nerf)
-- **Heechang Kim (BS@SNU): Text-to-4D Generation**, Summer 2023
 
 ## Extracurricular Activities
 - **Yonsei Mixed Choir ([Aven](https://www.youtube.com/watch?v=2namE-aq5xY)[ante](https://www.youtube.com/watch?v=TnXNz3y1qBo))**, Club president & Section leader, 2014 - 2019
