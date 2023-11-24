@@ -57,57 +57,6 @@ but not limited to.
 <ol class="bibliography">
 
 
-[//]: # ()
-[//]: # (<li>)
-
-[//]: # (<div class="pub-row">)
-
-[//]: # (  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">)
-
-[//]: # (    <img src="./assets/research/ditto_nerf.gif" class="teaser img-fluid z-depth-1">)
-
-[//]: # (  </div>)
-
-[//]: # (  <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">)
-
-[//]: # (      <div class="title"><a href="https://arxiv.org/pdf/23XX.XXXXX.pdf">Detailed Human-Centric Text Description-Driven Large Scene Synthesis</a></div>)
-
-[//]: # (      <div class="author"><strong>Gwanghyun Kim*</strong>, D. U. Kang*, H. Seo*, H. Kim*, S. Y. Chun <strong>&#40;*co-first&#41;</strong> </div>)
-
-[//]: # (      <div class="periodical"><em><strong>arXiv, 2023</strong></em>)
-
-[//]: # (      </div>)
-
-[//]: # (    <div class="links">)
-
-[//]: # (      <a href="https://arxiv.org/pdf/23XX.XXXXX.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>)
-
-[//]: # (      <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>)
-
-[//]: # (      <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>)
-
-[//]: # (      <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>)
-
-[//]: # (    <script>)
-
-[//]: # (    githubStars&#40;"janeyeon/ditto-nerf-code", function&#40;stars&#41; {)
-
-[//]: # (    var startext = document.getElementById&#40;"githubstars_manets3"&#41;;)
-
-[//]: # (          startext.innerHTML=stars;)
-
-[//]: # (    }&#41;;)
-
-[//]: # (    </script>)
-
-[//]: # (    </div>)
-
-[//]: # (  </div>)
-
-[//]: # (</div>)
-
-[//]: # (</li>)
-
 
 <li>
 <div class="pub-row">
