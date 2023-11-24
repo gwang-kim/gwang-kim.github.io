@@ -8,7 +8,9 @@ I am a second-year Ph.D. student in electrical and computer engineering (ECE) at
 I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University, advised by Prof. [Dong Hyun Kim](http://kimchi.yonsei.ac.kr/default/01/01.php#s1).
 
 ## Experience
-
+- **<span style="color:#72BB21">NVIDIA</span> Research**, Research intern
+  <br>
+  Hosted by [Umar Iqbal](https://www.umariqbal.info/) and [Ye Yuan](https://ye-yuan.com/) (Incoming)
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
   Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), and [Yu-Chuan Su](https://sammy-su.github.io/) (Sep. 2023 - Present)
@@ -29,7 +31,12 @@ but not limited to.
 
 ## <b style="color:#F88017">News</b>
 
-- **[Sep. 2023]** I am joining [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
+[//]: # (- **[Dec. 2023]** [DetText2Scene]&#40;https://arxiv.org/pdf/23XX.XXXX.pdf&#41; is available on arXiv.)
+
+[//]: # (- **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023]&#40;https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-south-korea&#41;).
+
+- **[Jan. 2024]** I am joining [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
+- **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
@@ -48,6 +55,58 @@ but not limited to.
 
 <div class="publications">
 <ol class="bibliography">
+
+
+[//]: # ()
+[//]: # (<li>)
+
+[//]: # (<div class="pub-row">)
+
+[//]: # (  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">)
+
+[//]: # (    <img src="./assets/research/ditto_nerf.gif" class="teaser img-fluid z-depth-1">)
+
+[//]: # (  </div>)
+
+[//]: # (  <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">)
+
+[//]: # (      <div class="title"><a href="https://arxiv.org/pdf/23XX.XXXXX.pdf">Detailed Human-Centric Text Description-Driven Large Scene Synthesis</a></div>)
+
+[//]: # (      <div class="author"><strong>Gwanghyun Kim*</strong>, D. U. Kang*, H. Seo*, H. Kim*, S. Y. Chun <strong>&#40;*co-first&#41;</strong> </div>)
+
+[//]: # (      <div class="periodical"><em><strong>arXiv, 2023</strong></em>)
+
+[//]: # (      </div>)
+
+[//]: # (    <div class="links">)
+
+[//]: # (      <a href="https://arxiv.org/pdf/23XX.XXXXX.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>)
+
+[//]: # (      <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>)
+
+[//]: # (      <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>)
+
+[//]: # (      <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>)
+
+[//]: # (    <script>)
+
+[//]: # (    githubStars&#40;"janeyeon/ditto-nerf-code", function&#40;stars&#41; {)
+
+[//]: # (    var startext = document.getElementById&#40;"githubstars_manets3"&#41;;)
+
+[//]: # (          startext.innerHTML=stars;)
+
+[//]: # (    }&#41;;)
+
+[//]: # (    </script>)
+
+[//]: # (    </div>)
+
+[//]: # (  </div>)
+
+[//]: # (</div>)
+
+[//]: # (</li>)
 
 
 <li>
@@ -267,22 +326,37 @@ but not limited to.
 
 ## Patents
 
+- **Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**
+  <br>
+  S. Y. Chun, **Gwanghyun Kim**
+  <br>
+  Korean Patent, Filed, No. 1020230149926, 2023
+
+- **Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
+  <br>
+  S. Y. Chun, **Gwanghyun Kim**
+  <br>
+  Korean Patent, Filed, No. 1020230107395, 2023
+
+
+
 - **Severity quantification and lesion localization method of infectious disease on cxr using vision transformer and apparatus therefor**
   <br>
   J. C. Ye, S. Park, **Gwanghyun Kim**
   <br>
-  U.S. Patent Application, No. 17/704,879, 2022
+  U.S. Patent Application, Filed, No. 17/704,879, 2022
 
 - **Method of classifying lesion of chest x-ray radiograph based on data normalization and local patch and apparatus thereof**
   <br>
   J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**
   <br>
-  U.S. Patent Application, No. 17/352,229, 2022
+  U.S. Patent Application, Filed, No. 17/352,229, 2022
 
 
 
 ## Awards and Honors
 
+[//]: # (- **[Qualcomm Innovation Fellowship South Korea 2023]&#40;https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-south-korea&#41; &#40;$4,000&#41;**, Qualcomm, 2023)
 - **[Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
 - **Brain Korea 21 Scholarships**, Korea Research Foundation, 2022 - 2023
 - **[Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) ($2,000)**, BISPL, KAIST, 2021 
@@ -292,8 +366,7 @@ but not limited to.
   
 ## Invited Talks
 
-- **Text-driven Control of 2D/3D Image Using Diffusion:
-DiffusionCLIP and DATID-3D**
+- **Text-driven Control of 2D/3D Image Using Diffusion: DiffusionCLIP and DATID-3D**
   <br>
   Innerverz Seminar, Innerverz (Remote), 2023
 - **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
@@ -309,7 +382,7 @@ DiffusionCLIP and DATID-3D**
 
 
 ## Services
-- **Conference reviewers:** CVPR 2023, ICCV 2023, NeurIPS 2023
+- **Conference reviewers:** CVPR 2024, NeurIPS 2023, ICCV 2023
 - **Journal Reviewers:** T-PAMI, ACM Comput Surv
 
 ## Mentoring
@@ -321,28 +394,6 @@ DiffusionCLIP and DATID-3D**
 ## Extracurricular Activities
 - **Yonsei Mixed Choir ([Aven](https://www.youtube.com/watch?v=2namE-aq5xY)[ante](https://www.youtube.com/watch?v=TnXNz3y1qBo))**, Club president & Section leader, 2014 - 2019
 
-[//]: # (## Projects)
 
-[//]: # ()
-[//]: # (- **Development of AI Modules for Smart X-ray Screening Systems**)
-
-[//]: # (  <br>)
-
-[//]: # (  Conducted by Korea Customs Service, 2021 - 2021)
-
-[//]: # (  <br>)
-
-[//]: # (  Algorithm development)
-
-[//]: # ()
-[//]: # (- **AI Chest X-ray Rapid Diagnosis**)
-
-[//]: # (  <br>)
-
-[//]: # (  Conducted by Korea Aid for Respiratory Epidemic, 2020 - 2021)
-
-[//]: # (  <br>)
-
-[//]: # (  Algorithm development, System deployment, Clinical trial preparation)
 
 
