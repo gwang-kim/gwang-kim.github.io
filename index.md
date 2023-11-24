@@ -33,7 +33,7 @@ but not limited to.
 
 [//]: # (- **[Dec. 2023]** [DetText2Scene]&#40;https://arxiv.org/pdf/23XX.XXXX.pdf&#41; is available on arXiv.)
 
-[//]: # (- **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023]&#40;https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-south-korea&#41;).
+[//]: # (- **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023]&#40;https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-south-korea&#41;.)
 
 - **[Jan. 2024]** I am joining [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
 - **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
