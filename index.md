@@ -8,7 +8,7 @@ I am a second-year Ph.D. student in electrical and computer engineering (ECE) at
 I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University, advised by Prof. [Dong Hyun Kim](http://kimchi.yonsei.ac.kr/default/01/01.php#s1).
 
 ## Experience
-- **<span style="color:#72BB21">NVIDIA</span> Research**, Research intern
+- **<span style="color:#72BB21">NVIDIA</span> Research**, Research Intern
   <br>
   Hosted by [Umar Iqbal](https://www.umariqbal.info/) and [Ye Yuan](https://ye-yuan.com/)
   <br>
