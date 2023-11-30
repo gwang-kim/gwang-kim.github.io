@@ -37,11 +37,8 @@ but not limited to.
 
 ## <b style="color:#F88017">News</b>
 
-[//]: # (- **[Dec. 2023]** [DetText2Scene]&#40;https://arxiv.org/pdf/23XX.XXXX.pdf&#41; is available on arXiv.)
-
-[//]: # (- **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023]&#40;https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-south-korea&#41;.)
-
 - **[Jan. 2024]** I am joining [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
+- **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
@@ -311,7 +308,7 @@ but not limited to.
 
 ## Awards and Honors
 
-[//]: # (- **[Qualcomm Innovation Fellowship South Korea 2023]&#40;https://www.qualcomm.com/research/university-relations/innovation-fellowship/2023-south-korea&#41; &#40;$4,000&#41;**, Qualcomm, 2023)
+- **[Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners) ($4,000)**, Qualcomm, 2023
 - **[Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
 - **Brain Korea 21 Scholarships**, Korea Research Foundation, 2022 - 2023
 - **[Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) ($2,000)**, BISPL, KAIST, 2021 
