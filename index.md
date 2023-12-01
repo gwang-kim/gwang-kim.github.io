@@ -12,12 +12,12 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   <br>
   Hosted by [Umar Iqbal](https://www.umariqbal.info/) and [Ye Yuan](https://ye-yuan.com/)
   <br>
-  Incoming, Santa Clara, CA, US (remote)
+  Incoming, Santa Clara, CA, USA (remote)
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
   Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), and [Yu-Chuan Su](https://sammy-su.github.io/)
   <br>
-  Sep. 2023 - Present, New York, NY, US
+  Sep. 2023 - Present, New York, NY, USA
 - **Fast Campus**, Lecturer in AI
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)
