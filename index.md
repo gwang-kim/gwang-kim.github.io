@@ -38,6 +38,8 @@ but not limited to.
 ## <b style="color:#F88017">News</b>
 
 - **[Jan. 2024]** I am joining [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
+
+[//]: # (- **[Dec. 2023]** [DetText2Scene]&#40;https://arxiv.org/pdf/23XX.XXXX.pdf&#41; is available on arXiv.)
 - **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
@@ -59,6 +61,23 @@ but not limited to.
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/dettext2scene.png" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/23XX.XXXXX.pdf">Detailed Human-Centric Text Description-Driven Large Scene Synthesis </a></div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>, D U Kang, H. Seo*, H. Kim*, S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>arXiv, 2023</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/23XX.XXXXX.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
 <li>
