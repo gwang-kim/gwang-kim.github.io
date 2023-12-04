@@ -18,11 +18,6 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), and [Yu-Chuan Su](https://sammy-su.github.io/)
   <br>
   Sep. 2023 - Present, New York, NY, USA
-- **Fast Campus**, Lecturer in AI
-  <br>
-  Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)
-  <br>
-  Nov. 2022 - Present, Seoul, Korea
 
 
 ## Research Interests
