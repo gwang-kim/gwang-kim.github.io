@@ -22,7 +22,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)
   <br>
-  Nov. 2022 - Present, Seoul, Korea
+  Nov. 2022 - Oct. 2023, Seoul, Korea
 
 ## Research Interests
 My research interests lie broadly in the field of computer vision (CV), machine learning (ML). Specifically, my work explores the following areas:
