@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## Welcome!
-I am a second-year Ph.D. student in electrical and computer engineering (ECE) at Seoul National University (SNU), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi).
+I am a third-year Ph.D. student in electrical and computer engineering (ECE) at Seoul National University (SNU), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi).
   I completed my M.S. in Bio and Brain Engineering (BBE)  at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
 I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University, advised by Prof. [Dong Hyun Kim](http://kimchi.yonsei.ac.kr/default/01/01.php#s1).
 
@@ -22,8 +22,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)
   <br>
-  Nov. 2022 - Present, Seoul, Korea
-
+  Nov. 2022 - Oct. 2023, Seoul, Korea
 
 ## Research Interests
 My research interests lie broadly in the field of computer vision (CV), machine learning (ML). Specifically, my work explores the following areas:
