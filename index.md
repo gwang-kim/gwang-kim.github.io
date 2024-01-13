@@ -12,12 +12,12 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   <br>
   Hosted by [Umar Iqbal](https://www.umariqbal.info/) and [Ye Yuan](https://ye-yuan.com/)
   <br>
-  Incoming, Santa Clara, CA, USA (remote)
+  Jan. 2024 - Present, Santa Clara, CA, USA (remote)
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
   Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), and [Yu-Chuan Su](https://sammy-su.github.io/)
   <br>
-  Sep. 2023 - Present, New York, NY, USA
+  Sep. 2023 - Jan. 2024, New York, NY, USA
 - **Fast Campus**, Lecturer in AI
   <br>
   Letcure title: [Mastering GANs through Model Implementation](https://fastcampus.co.kr/data_online_ganmodel)
@@ -38,7 +38,7 @@ but not limited to.
 ## <b style="color:#F88017">News</b>
 
 [//]: # (- **[Dec. 2023]** [DetText2Scene]&#40;https://arxiv.org/pdf/2311.18654.pdf&#41; is available on arXiv.)
-- **[Jan. 2024]** I am joining [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
+- **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
 - **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
