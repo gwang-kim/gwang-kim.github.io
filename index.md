@@ -25,7 +25,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   Nov. 2022 - Oct. 2023, Seoul, Korea
 
 ## Research Interests
-My research interests lie broadly in the field of computer vision (CV) and machine learning (ML). 
+My research interests lie broadly in the field of artificial intelligence (AI) and computer vision (CV). 
 Specifically, I'm passionate about advancing generative models and multimodal AI for solving challenging problems such as high-dimensional data modeling for high-res images, 3D, and video.
 My work explores the following areas:
 - **Generative models** and their applications (Diffusion models, GANs)
