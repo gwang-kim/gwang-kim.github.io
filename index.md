@@ -29,7 +29,7 @@ My research interests lie broadly in the field of artificial intelligence (AI) a
 Specifically, I'm passionate about advancing generative models and multimodal AI for solving challenging problems such as high-dimensional data modeling for high-res images, 3D, and video.
 My work explores the following areas:
 - **Generative models** and their applications (Diffusion models, GANs)
-- **Multi-modal learning** (Text-to-Image, Audio-to-Video, Text-to-3D)  
+- **Multi-modal learning** (Text, Image, Video, Audio, 3D)  
 - **3D reconstruction and 3D-aware synthesis** 
 - **Privacy-preserving distributed learning** (Federated learning, Split learning)
 - **Weakly- and Self-supervised learning**
