@@ -33,7 +33,6 @@ My work explores the following areas:
 - **3D reconstruction and 3D-aware synthesis** 
 - **Privacy-preserving distributed learning** (Federated learning, Split learning)
 - **Weakly- and Self-supervised learning**
-- 
 but not limited to.
 
 ## <b style="color:#F88017">News</b>
