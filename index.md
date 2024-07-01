@@ -4,13 +4,13 @@ layout: homepage
 
 ## Welcome!
 I am a third-year Ph.D. student in electrical and computer engineering (ECE) at Seoul National University (SNU), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi).
-  I completed my M.S. in Bio and Brain Engineering (BBE)  at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
+  I completed my M.S. in Bio and Brain Engineering (BBE) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
 I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University, advised by Prof. [Dong Hyun Kim](http://kimchi.yonsei.ac.kr/default/01/01.php#s1).
 
 ## Experience
-- **<span style="color:#72BB21">NVIDIA</span> Research**, Research Intern
+- **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist Intern
   <br>
-  Hosted by [Umar Iqbal](https://www.umariqbal.info/) and [Ye Yuan](https://ye-yuan.com/)
+  Hosted by [Umar Iqbal](https://www.umariqbal.info/), [Xueting Li](https://sunshineatnoon.github.io/),  and [Ye Yuan](https://ye-yuan.com/)
   <br>
   Jan. 2024 - Present, Santa Clara, CA (remote)
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
@@ -25,26 +25,22 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   Nov. 2022 - Oct. 2023, Seoul, Korea
 
 ## Research Interests
-My research interests lie broadly in the field of artificial intelligence (AI) and computer vision (CV). 
-Specifically, I'm passionate about advancing generative models and multimodal AI for solving challenging problems such as high-dimensional data modeling for high-res images, 3D, and video.
-My work explores the following areas:
-- **Generative models** and their applications (Diffusion models, GANs)
-- **Multi-modal learning** (Text, Audio, Image, Video, 3D, Depth, Keypoint)  
-- **3D reconstruction and 3D-aware synthesis** 
-- **Privacy-preserving distributed learning** (Federated learning, Split learning)
-- **Weakly- and Self-supervised learning**
+My research focuses on artificial intelligence (AI), particularly in computer vision (CV) and its intersection with **Generative AI**. I'm driven to leverage Generative AI's capabilities to tackle complex problems. My work explores three key areas:
+- **Multimodal Generative AI** (Image, Video, Text, Audio, Depth, Normal, Motion, 3D)
+- **High-Dimensional Generative AI** (>8K image, Video, 3D, 4D)
+- **Human-Centric Generative AI** (Human face, Digital humans, Human-centric scene)
 
-but not limited to.
+Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
-
-[//]: # (- **[Dec. 2023]** [DetText2Scene]&#40;https://arxiv.org/pdf/2311.18654.pdf&#41; is available on arXiv.)
+- **[Jul. 2024]** [BeyondScene](https://arxiv.org/abs/2404.04544) is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
+- **[May 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is available on arXiv.
 - **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
 - **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
-- **[Jul. 2023]** [PODIA-3D](https://arxiv.org/pdf/2304.01900.pdf) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
-- **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/pdf/2304.02827.pdf) is available on arXiv.
+- **[Jul. 2023]** [PODIA-3D](https://arxiv.org/abs/2304.01900) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
+- **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/abs/2304.02827) is available on arXiv.
 - **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
 - **[Nov. 2022]** I start a new postiion as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [Fast Campus](https://fastcampus.co.kr/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
@@ -61,19 +57,41 @@ but not limited to.
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/avdit.gif" class="teaser img-fluid z-depth-1 loop">
+  </div>
+  <div id="beyondscene" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2405.13762">A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation</a></div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, K. Somandepalli* <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>arxiv 2024, work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2405.13762" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://avdit2024.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/dettext2scene.png" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/beyondscene.gif" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">ECCV</abbr>
   </div>
-  <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2311.18654.pdf">Detailed Human-Centric Text Description-Driven Large Scene Synthesis </a></div>
-      <div class="author"><strong>Gwanghyun Kim*</strong>, D U Kang*, H. Seo*, H. Kim*, S. Y. Chun <strong>(*co-first)</strong> </div>
-      <div class="periodical"><em><strong>arXiv, 2023</strong></em>
+  <div id="beyondscene" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2404.04544">BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion</a></div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  H. Kim*, H. Seo*, D U Kang*,  S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>ECCV 2024</strong></em>
       </div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2311.18654.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2404.04544.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://janeyeon.github.io/beyond-scene/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/gwang-kim/gwang-kim.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
@@ -83,11 +101,11 @@ but not limited to.
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/research/podia_3d.gif" class="teaser img-fluid z-depth-1">
+    <img src="./assets/research/podia_3d.gif" class="teaser img-fluid z-depth-1 ">
     <abbr class="badge">ICCV</abbr>
   </div>
   <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2304.01900.pdf">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2304.01900">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>, J. H. Jang, S. Y. Chun </div>
       <div class="periodical"><em><strong>ICCV 2023</strong></em>
       </div>
@@ -115,9 +133,9 @@ but not limited to.
     <img src="./assets/research/ditto_nerf.gif" class="teaser img-fluid z-depth-1">
   </div>
   <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://arxiv.org/pdf/2304.02827.pdf">DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model </a></div>
+      <div class="title"><a href="https://arxiv.org/abs/2304.02827">DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model </a></div>
       <div class="author">H. Seo*, H. Kim*, <strong>Gwanghyun Kim*</strong>, S. Y. Chun <strong>(*co-first)</strong> </div>
-      <div class="periodical"><em><strong>arXiv, 2023</strong></em>
+      <div class="periodical"><em><strong>arxiv 2023</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2304.02827.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -263,7 +281,7 @@ but not limited to.
   <div id="vit_sev" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2103.07062.pdf">Severity Quantification and Lesion Localization of COVID-19 on CXR using Vision Transformer</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>, S. Park, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye </div>
-      <div class="periodical"><em><strong>arXiv, 2021</strong></em>
+      <div class="periodical"><em><strong>arxiv 2021</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2103.07062.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -281,7 +299,7 @@ but not limited to.
   <div id="vit_covid" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2103.07055.pdf">Vision Transformer for COVID-19 CXR Diagnosis using Chest X-ray Feature Corpus</a></div>
       <div class="author">S. Park, <strong>Gwanghyun Kim</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye </div>
-      <div class="periodical"><em><strong>arXiv, 2021</strong></em>
+      <div class="periodical"><em><strong>arxiv 2021</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2103.07055.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -297,17 +315,24 @@ but not limited to.
 
 ## Patents
 
+- **Multi-Modal Diffusion with Mixture of Timesteps**
+  <br>
+  K. Somandepalli, **Gwanghyun Kim**,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker
+  <br>
+  U.S. Patent Application, Filed, No. 63/548,776, 2024
+
+
 - **Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**
   <br>
   S. Y. Chun, **Gwanghyun Kim**
   <br>
-  Korean Patent, Filed, No. 1020230149926, 2023
+  Korean Patent, Filed, No. 10-2023-0149926, 2023
 
 - **Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
   <br>
   S. Y. Chun, **Gwanghyun Kim**
   <br>
-  Korean Patent, Filed, No. 1020230107395, 2023
+  Korean Patent, Filed, No. 10-2023-0107395, 2023
 
 
 
@@ -316,12 +341,16 @@ but not limited to.
   J. C. Ye, S. Park, **Gwanghyun Kim**
   <br>
   U.S. Patent Application, Filed, No. 17/704,879, 2022
+  <br>
+  Korean Patent, Granted, No. 10-2558096, 2023
 
 - **Method of classifying lesion of chest x-ray radiograph based on data normalization and local patch and apparatus thereof**
   <br>
   J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**
   <br>
   U.S. Patent Application, Filed, No. 17/352,229, 2022
+  <br>
+  Korean Patent, Filed, No. 10-2021-0039509, 2023
 
 
 
@@ -337,6 +366,12 @@ but not limited to.
   
 ## Invited Talks
 
+- **Tutorial on Denoising Diffusion Model**
+  <br>
+  Bioimaging Winter School, IEIE, 2024
+- **Audio-Video Latent Diffusion Model**
+  <br>
+  Google Research, Google, 2024
 - **Text-driven Control of 2D/3D Image Using Diffusion: DiffusionCLIP and DATID-3D**
   <br>
   Innerverz Seminar, Innerverz (Remote), 2023
@@ -353,8 +388,8 @@ but not limited to.
 
 
 ## Services
-- **Conference reviewers:** CVPR 2024, NeurIPS 2023, ICCV 2023
-- **Journal Reviewers:** T-PAMI, ACM Comput Surv
+- **Conference reviewers:** NeurIPS, CVPR, ICCV, ECCV
+- **Journal Reviewers:** T-PAMI, T-CSVT, ACM Comput Surv
 
 ## Mentoring
 - **Heechang Kim (BS@SNU): Text-to-4D Generation**, Summer 2023
