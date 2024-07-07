@@ -91,7 +91,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
     <div class="links">
       <a href="https://arxiv.org/pdf/2404.04544.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://janeyeon.github.io/beyond-scene/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
-      <a href="https://github.com/gwang-kim/gwang-kim.github.io" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/BeyondScene/BeyondScene" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
