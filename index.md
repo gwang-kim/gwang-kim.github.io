@@ -315,6 +315,12 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 
 ## Patents
 
+- **Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion**
+  <br>
+  S. Y. Chun, **Gwanghyun Kim**, H. Kim, H. Seo, D U Kang
+  <br>
+  Korean Patent, Filed, No. 10-2024-0115484, 2024
+
 - **Multi-Modal Diffusion with Mixture of Timesteps**
   <br>
   K. Somandepalli, **Gwanghyun Kim**,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker
@@ -331,6 +337,8 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
   <br>
   S. Y. Chun, **Gwanghyun Kim**
+  <br>
+  U.S. Patent Application, Filed, No. 18/534,243, 2023
   <br>
   Korean Patent, Filed, No. 10-2023-0107395, 2023
 
