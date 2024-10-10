@@ -67,7 +67,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   </div>
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.13762">A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation</a></div>
-      <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, S. Y. Chun, K. Somandepalli* <strong>(*co-first)</strong> </div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, K. Somandepalli* <strong>(*co-first)</strong> </div>
       <div class="periodical"><em><strong>NeurIPS 2024, work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
       </div>
     <div class="links">
