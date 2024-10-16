@@ -381,7 +381,6 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **BeyondScene: Higher-Resolution Human-Scene Generation With Pretrained Diffusion**
   <br>
   Cohere For AI, Cohere (Remote), 2024
-
 - **Tutorial on Denoising Diffusion Model**
   <br>
   Bioimaging Winter School, IEIE, 2024
