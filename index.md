@@ -367,6 +367,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 
 ## Awards and Honors
 
+- **[Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships) ($3,000)**, Google, 2024
 - **[Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners) ($4,000)**, Qualcomm, 2023
 - **[Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
 - **Brain Korea 21 Scholarships**, Korea Research Foundation, 2022 - 2023
@@ -376,6 +377,10 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **Honors Scholarship**, Yonsei University, Spring 2018, Fall 2018
   
 ## Invited Talks
+
+- **BeyondScene: Higher-Resolution Human-Scene Generation With Pretrained Diffusion**
+  <br>
+  Cohere For AI, Cohere (Remote), 2024
 
 - **Tutorial on Denoising Diffusion Model**
   <br>
