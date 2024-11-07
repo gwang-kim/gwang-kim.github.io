@@ -335,6 +335,8 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <br>
   S. Y. Chun, **Gwanghyun Kim**
   <br>
+  U.S. Patent Application, Filed, No. 18/933,335, 2024  
+  <br>
   Korean Patent, Filed, No. 10-2023-0149926, 2023
 
 - **Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
