@@ -33,6 +33,7 @@ My research focuses on artificial intelligence (AI), particularly in computer vi
 Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
+- **[Nov. 2024]** [PersonaCraft](hhttps://arxiv.org/abs/2411.18068) is available on arXiv.
 - **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is accepted to [NeurIPS 2024](https://neurips.cc/).
 - **[Jul. 2024]** [BeyondScene](https://arxiv.org/abs/2404.04544) is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
 - **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
@@ -56,6 +57,26 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 
 <div class="publications">
 <ol class="bibliography">
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/personacraft.gif" class="teaser img-fluid z-depth-1 loop">
+  </div>
+  <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion</a></div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Kim, S. Y. Chun <strong>(*co-first)</strong> </div>
+    <div class="periodical"><em><strong>arxiv 2024</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2103.07062.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 
 
@@ -379,7 +400,9 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **Honors Scholarship**, Yonsei University, Spring 2018, Fall 2018
   
 ## Invited Talks
-
+- **BeyondScene: Higher-Resolution Human-Scene Generation With Pretrained Diffusion**
+  <br>
+  Samsung MX Research Collaboration Seminar, SNU IPAI, 2024
 - **BeyondScene: Higher-Resolution Human-Scene Generation With Pretrained Diffusion**
   <br>
   Cohere For AI, Cohere (Remote), 2024
