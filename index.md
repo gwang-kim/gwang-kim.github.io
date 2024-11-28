@@ -67,7 +67,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   </div>
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion</a></div>
-      <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Kim, S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Lee, S. Y. Chun <strong>(*co-first)</strong> </div>
     <div class="periodical"><em><strong>arxiv 2024</strong></em>
       </div>
     <div class="links">
