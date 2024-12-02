@@ -34,6 +34,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 
 ## <b style="color:#F88017">News</b>
 - **[Nov. 2024]** [PersonaCraft](hhttps://arxiv.org/abs/2411.18068) is available on arXiv.
+- **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
 - **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is accepted to [NeurIPS 2024](https://neurips.cc/).
 - **[Jul. 2024]** [BeyondScene](https://arxiv.org/abs/2404.04544) is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
 - **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
