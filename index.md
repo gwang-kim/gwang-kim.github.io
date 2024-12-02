@@ -356,7 +356,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <br>
   S. Y. Chun, **Gwanghyun Kim**
   <br>
-  U.S. Patent Application, Filed, No. 18/933,335, 2024  
+  U.S. Patent Application, Filed, No. 18/933,335, 2024
   <br>
   Korean Patent, Filed, No. 10-2023-0149926, 2023
 
@@ -367,7 +367,6 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   U.S. Patent Application, Filed, No. 18/534,243, 2023
   <br>
   Korean Patent, Filed, No. 10-2023-0107395, 2023
-
 
 
 - **Severity quantification and lesion localization method of infectious disease on cxr using vision transformer and apparatus therefor**
