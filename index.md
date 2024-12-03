@@ -74,6 +74,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
     <div class="links">
       <a href="https://arxiv.org/pdf/2103.07062.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gwang-kim.github.io/persona_craft/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/gwang-kim/PersonaCraft" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
   </div>
 </div>
