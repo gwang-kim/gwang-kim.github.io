@@ -33,7 +33,7 @@ My research focuses on artificial intelligence (AI), particularly in computer vi
 Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
-- **[Jan. 2025]** [PersonaCraft](https://arxiv.org/abs/2411.18068) is available on arXiv.
+- **[Nov. 2024]** [PersonaCraft](https://arxiv.org/abs/2411.18068) is available on arXiv.
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
 - **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is accepted to [NeurIPS 2024](https://neurips.cc/).
 - **[Jul. 2024]** [BeyondScene](https://arxiv.org/abs/2404.04544) is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
@@ -69,7 +69,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized and Controllable Full-Body Multi-Human Scene Generation Using Occlusion-Aware 3D-Conditioned Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Lee, S. Y. Chun <strong>(*co-first)</strong> </div>
-    <div class="periodical"><em><strong>arxiv 2025</strong></em>
+    <div class="periodical"><em><strong>arxiv 2024</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.18068" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
