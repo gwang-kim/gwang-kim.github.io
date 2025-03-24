@@ -60,6 +60,28 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 <ol class="bibliography">
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/img/question.png" class="teaser img-fluid z-depth-1 loop">
+  </div>
+  <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Research on Human 3D Geometry Estimation and Video Diffusion Model</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong> et al. </div>
+    <div class="periodical"><em><strong>Under review, work at <span style="color:#72BB21">NVIDIA</span>, 2025</strong></em>
+      </div>
+    <!-- <div class="links">
+      <a href="https://arxiv.org/pdf/XXXX.XXXXX" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+
+
+
+
+
 
 <li>
 <div class="pub-row">
