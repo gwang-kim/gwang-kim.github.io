@@ -10,12 +10,12 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 ## Experience
 - **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist Intern
   <br>
-  Hosted by [Umar Iqbal](https://www.umariqbal.info/), [Xueting Li](https://sunshineatnoon.github.io/),  and [Ye Yuan](https://ye-yuan.com/)
+  Mentors: [Umar Iqbal](https://www.umariqbal.info/), [Xueting Li](https://sunshineatnoon.github.io/), [Ye Yuan](https://ye-yuan.com/),  [Koki Nagano](https://luminohope.org), [Tianye Li](https://research.nvidia.com/labs/amri/author/tianye-li)
   <br>
   Jan. 2024 - Feb. 2025, Santa Clara, CA (remote)
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
-  Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), and [Yu-Chuan Su](https://sammy-su.github.io/)
+  Hosts: [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), [Yu-Chuan Su](https://sammy-su.github.io/)
   <br>
   Sep. 2023 - Jan. 2024, New York, NY
 - **Fast Campus**, Lecturer in AI
