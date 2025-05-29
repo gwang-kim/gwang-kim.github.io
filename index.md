@@ -33,6 +33,7 @@ My research focuses on artificial intelligence (AI), particularly in computer vi
 Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
+- **[May  2025]** [GeoMan](https://arxiv.org/abs/2505.XXXXX) that is the work at <span style="color:#72BB21">NVIDIA</span></strong> is available on arXiv.
 - **[Nov. 2024]** [PersonaCraft](https://arxiv.org/abs/2411.18068) is available on arXiv.
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
 - **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is accepted to [NeurIPS 2024](https://neurips.cc/).
@@ -63,12 +64,12 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/question.png" class="teaser img-fluid z-depth-1 loop">
+    <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Research on Human 3D Geometry Estimation and Video Diffusion Model</div>
-      <div class="author"><strong>Gwanghyun Kim</strong> et al. </div>
-    <div class="periodical"><em><strong>Under review, work at <span style="color:#72BB21">NVIDIA</span>, 2025</strong></em>
+      <div class="title">Human Group-Aware Multi-View Diffusion with Canonicalized View Transform for Single Image to 3D</div>
+      <div class="author"><strong>Gwanghyun Kim</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
+    <div class="periodical"><em><strong>Under review, 2025</strong></em>
       </div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/XXXX.XXXXX" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -78,6 +79,26 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 </li>
 
 
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/geoman.gif" class="teaser img-fluid z-depth-1 loop">
+  </div>
+  <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2505.XXXXX">GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong>,  X. Li, Y. Yuan, K. Nagano, T. Li, J. Kautz, S. Y. Chun, U. Iqbal </div>
+    <div class="periodical"><em><strong>arxiv 2025, Under review, work at <span style="color:#72BB21">NVIDIA</span></strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2505.XXXXX" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://research.nvidia.com/labs/dair/geoman" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <!-- <a href="https://research.nvidia.com/labs/dair/geoman" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+</div>
+</li>
 
 
 
@@ -91,7 +112,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized and Controllable Full-Body Multi-Human Scene Generation Using Occlusion-Aware 3D-Conditioned Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Lee, S. Y. Chun <strong>(*co-first)</strong> </div>
-    <div class="periodical"><em><strong>arxiv 2024</strong></em>
+    <div class="periodical"><em><strong>arxiv 2024, Under review</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.18068" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -367,6 +388,8 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion**
   <br>
   S. Y. Chun, **Gwanghyun Kim**, H. Kim, H. Seo, D U Kang
+  <br>
+  U.S. Patent Application, Filed, No. 19/019,060, 2025 
   <br>
   Korean Patent, Filed, No. 10-2024-0115484, 2024
 
