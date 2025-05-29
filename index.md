@@ -68,7 +68,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Human Group-Aware Multi-View Diffusion with Canonicalized View Transform for Single Image to 3D</div>
-      <div class="author"><strong>Gwanghyun Kim</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
     <div class="periodical"><em><strong>Under review, 2025</strong></em>
       </div>
     <!-- <div class="links">
