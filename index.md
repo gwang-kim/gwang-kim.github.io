@@ -183,7 +183,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
       <a href="https://arxiv.org/pdf/2304.01900.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gwang-kim.github.io/podia_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/PODIA-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/gwang-kim/PODIA-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets5"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
+      <!-- <a href="https://github.com/gwang-kim/PODIA-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets5"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
     <script>
     githubStars("gwang-kim/PODIA-3D", function(stars) {
     var startext = document.getElementById("githubstars_manets5");
@@ -211,7 +211,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
       <a href="https://arxiv.org/pdf/2304.02827.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
+      <!-- <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
     <script>
     githubStars("janeyeon/ditto-nerf-code", function(stars) {
     var startext = document.getElementById("githubstars_manets3");
