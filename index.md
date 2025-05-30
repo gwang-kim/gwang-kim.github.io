@@ -89,7 +89,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2505.23085">GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>,  X. Li, Y. Yuan, K. Nagano, T. Li, J. Kautz, S. Y. Chun, U. Iqbal </div>
-    <div class="periodical"><em><strong>arxiv 2025, Under review, work at <span style="color:#72BB21">NVIDIA</span></strong></em>
+    <div class="periodical"><em><strong>Under review, arxiv 2025, work at <span style="color:#72BB21">NVIDIA</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.23085" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -112,7 +112,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized and Controllable Full-Body Multi-Human Scene Generation Using Occlusion-Aware 3D-Conditioned Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Lee, S. Y. Chun <strong>(*co-first)</strong> </div>
-    <div class="periodical"><em><strong>arxiv 2024, Under review</strong></em>
+    <div class="periodical"><em><strong>Under review, arxiv 2024</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.18068" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
