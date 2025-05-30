@@ -33,7 +33,7 @@ My research focuses on artificial intelligence (AI), particularly in computer vi
 Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
-- **[May  2025]** [GeoMan](https://arxiv.org/abs/2505.23085) that is the work at <span style="color:#72BB21">NVIDIA</span> is available on arXiv.
+- **[May  2025]** [GeoMan](https://arxiv.org/abs/2505.23085) that is the work at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/) is available on arXiv.
 - **[Nov. 2024]** [PersonaCraft](https://arxiv.org/abs/2411.18068) is available on arXiv.
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
 - **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is accepted to [NeurIPS 2024](https://neurips.cc/).
@@ -67,7 +67,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
     <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Human Group-Aware Multi-View Diffusion with Canonicalized View Transform for Single Image to 3D</div>
+      <div class="title">HUG3D: Human Group-Aware Multi-View Diffusion with Canonicalized View Transform for Single Image to 3D</div>
       <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
     <div class="periodical"><em><strong>Under review, 2025</strong></em>
       </div>
