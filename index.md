@@ -33,10 +33,9 @@ My research focuses on artificial intelligence (AI), particularly in computer vi
 Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
-- **[May  2025]** [GeoMan](https://arxiv.org/abs/2505.23085) that is the work at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/) is available on arXiv.
-- **[Nov. 2024]** [PersonaCraft](https://arxiv.org/abs/2411.18068) is available on arXiv.
+- **[Jun.  2025]** [GeoMan](https://arxiv.org/abs/2505.23085), done at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/), and [PersonaCraft](https://arxiv.org/abs/2411.18068) are accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
-- **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is accepted to [NeurIPS 2024](https://neurips.cc/).
+- **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762), done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>, is accepted to [NeurIPS 2024](https://neurips.cc/).
 - **[Jul. 2024]** [BeyondScene](https://arxiv.org/abs/2404.04544) is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
 - **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/) as a Research Intern.
 - **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
@@ -85,11 +84,12 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/geoman.gif" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">ICCV</abbr>
   </div>
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2505.23085">GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>,  X. Li, Y. Yuan, K. Nagano, T. Li, J. Kautz, S. Y. Chun, U. Iqbal </div>
-    <div class="periodical"><em><strong>Under review, arxiv 2025, work at <span style="color:#72BB21">NVIDIA</span></strong></em>
+    <div class="periodical"><em><strong>Under review, arxiv 2025, done at <span style="color:#72BB21">NVIDIA</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.23085" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -108,6 +108,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/personacraft.gif" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">ICCV</abbr>
   </div>
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized and Controllable Full-Body Multi-Human Scene Generation Using Occlusion-Aware 3D-Conditioned Diffusion</a></div>
@@ -135,7 +136,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.13762">A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, K. Somandepalli* <strong>(*co-first)</strong> </div>
-      <div class="periodical"><em><strong>NeurIPS 2024, work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
+      <div class="periodical"><em><strong>NeurIPS 2024, done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.13762" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
