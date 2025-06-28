@@ -454,10 +454,10 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **BeyondScene: Higher-Resolution Human-Scene Generation With Pretrained Diffusion**
   <br>
   Cohere For AI, Cohere (Remote), 2024
-- **Tutorial on Denoising Diffusion Model**
+- **Tutorial on Denoising Diffusion Models**
   <br>
   Bioimaging Winter School, IEIE, 2024
-- **Audio-Video Latent Diffusion Model**
+- **Audio-Video Latent Diffusion Models**
   <br>
   Google Research, Google, 2024
 - **Text-driven Control of 2D/3D Image Using Diffusion: DiffusionCLIP and DATID-3D**
