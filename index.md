@@ -460,7 +460,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **Audio-Video Latent Diffusion Models**
   <br>
   Google Research, Google, 2024
-- **Text-driven Control of 2D/3D Image Using Diffusion: DiffusionCLIP and DATID-3D**
+- **Text-driven Control of 2D/3D Image Using Diffusion: DiffusionCLIP & DATID-3D**
   <br>
   Innerverz Seminar, Innerverz (Remote), 2023
 - **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
