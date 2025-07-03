@@ -476,7 +476,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 
 
 ## Services
-- **Conference reviewers:** CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI
+- **Conference reviewers:** CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI
 - **Journal Reviewers:** T-PAMI, T-CSVT, ACM Comput Surv
 
 ## Mentoring
