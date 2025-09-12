@@ -28,13 +28,11 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 My research focuses on overcoming fundamental limitations of current **Generative AI** by building models that genuinely understand the world. I pursue this through three core directions:
 
   - **3D World Understanding:** Leveraging 3D geometry to achieve high-fidelity generation, precise control, and robust occlusion handling.
-  - **Multimodal Control:** Integrating diverse modalities—such as audio, identity, pose, and geometry—for nuanced and controllable synthesis.
+  - **Multimodal Control:** Integrating diverse modalities such as audio, identity, pose, and geometry for nuanced and controllable synthesis.
   - **Temporal Dynamics:** Modeling realistic motion and interactions to ensure temporally coherent content generation.
 
 I am also interested in distributed learning (e.g., federated and split learning), as well as weakly- and self-supervised learning paradigms.
 
-
-Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
 - **[Jun.  2025]** [GeoMan](https://arxiv.org/abs/2505.23085), done at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/), and [PersonaCraft](https://arxiv.org/abs/2411.18068) are accepted to [ICCV 2025](https://iccv.thecvf.com/).
