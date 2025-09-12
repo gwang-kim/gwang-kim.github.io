@@ -10,12 +10,12 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 ## Experience
 - **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist Intern
   <br>
-  Hosted by [Umar Iqbal](https://www.umariqbal.info/), [Xueting Li](https://sunshineatnoon.github.io/),  and [Ye Yuan](https://ye-yuan.com/)
+  Mentors: [Umar Iqbal](https://www.umariqbal.info/), [Xueting Li](https://sunshineatnoon.github.io/), [Ye Yuan](https://ye-yuan.com/),  [Koki Nagano](https://luminohope.org), and [Tianye Li](https://research.nvidia.com/labs/amri/author/tianye-li)
   <br>
   Jan. 2024 - Feb. 2025, Santa Clara, CA (remote)
 - **<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research**, Student Researcher
   <br>
-  Hosted by [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), and [Yu-Chuan Su](https://sammy-su.github.io/)
+  Hosts: [Alonso Martinez](https://www.linkedin.com/in/alonsomartinez/), [Krishna Somandepalli](https://sail.usc.edu/~somandep/), and [Yu-Chuan Su](https://sammy-su.github.io/)
   <br>
   Sep. 2023 - Jan. 2024, New York, NY
 - **Fast Campus**, Lecturer in AI
@@ -37,13 +37,13 @@ I am also interested in distributed learning (e.g., federated and split learning
 Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
 ## <b style="color:#F88017">News</b>
-- **[Nov. 2024]** [PersonaCraft](https://arxiv.org/abs/2411.18068) is available on arXiv.
+- **[Jun.  2025]** [GeoMan](https://arxiv.org/abs/2505.23085), done at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/), and [PersonaCraft](https://arxiv.org/abs/2411.18068) are accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
-- **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762) that is the work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> is accepted to [NeurIPS 2024](https://neurips.cc/).
+- **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762), done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>, is accepted to [NeurIPS 2024](https://neurips.cc/).
 - **[Jul. 2024]** [BeyondScene](https://arxiv.org/abs/2404.04544) is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
-- **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) as a Research Intern.
+- **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/) as a Research Intern.
 - **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
-- **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/) as a Student Researcher.
+- **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>](https://research.google/) as a Student Researcher.
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/abs/2304.01900) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/abs/2304.02827) is available on arXiv.
@@ -67,12 +67,12 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="./assets/img/question.png" class="teaser img-fluid z-depth-1 loop">
+    <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Research on Human 3D Geometry Estimation and Video Diffusion Model</div>
-      <div class="author"><strong>Gwanghyun Kim</strong> et al. </div>
-    <div class="periodical"><em><strong>Under review, work at <span style="color:#72BB21">NVIDIA</span>, 2025</strong></em>
+      <div class="title">HUG3D: Human Group-Aware Multi-View Diffusion with Canonicalized View Transform for Single Image to 3D</div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
+    <div class="periodical"><em><strong>Under review, 2025</strong></em>
       </div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/XXXX.XXXXX" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -84,6 +84,27 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/geoman.gif" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+  <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2505.23085">GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong>,  X. Li, Y. Yuan, K. Nagano, T. Li, J. Kautz, S. Y. Chun, U. Iqbal </div>
+    <div class="periodical"><em><strong>ICCV 2025, done at <span style="color:#72BB21">NVIDIA</span></strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2505.23085" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://research.nvidia.com/labs/dair/geoman" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <!-- <a href="https://research.nvidia.com/labs/dair/geoman" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
 
 
 
@@ -91,11 +112,12 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/personacraft.gif" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">ICCV</abbr>
   </div>
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized and Controllable Full-Body Multi-Human Scene Generation Using Occlusion-Aware 3D-Conditioned Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Lee, S. Y. Chun <strong>(*co-first)</strong> </div>
-    <div class="periodical"><em><strong>arxiv 2024</strong></em>
+    <div class="periodical"><em><strong>ICCV 2025</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2411.18068" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -118,7 +140,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.13762">A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, K. Somandepalli* <strong>(*co-first)</strong> </div>
-      <div class="periodical"><em><strong>NeurIPS 2024, work at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
+      <div class="periodical"><em><strong>NeurIPS 2024, done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.13762" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -166,7 +188,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
       <a href="https://arxiv.org/pdf/2304.01900.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://gwang-kim.github.io/podia_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/PODIA-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/gwang-kim/PODIA-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets5"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
+      <!-- <a href="https://github.com/gwang-kim/PODIA-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets5"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
     <script>
     githubStars("gwang-kim/PODIA-3D", function(stars) {
     var startext = document.getElementById("githubstars_manets5");
@@ -194,7 +216,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
       <a href="https://arxiv.org/pdf/2304.02827.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
+      <!-- <a href="https://github.com/janeyeon/ditto-nerf-code" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets3"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a> -->
     <script>
     githubStars("janeyeon/ditto-nerf-code", function(stars) {
     var startext = document.getElementById("githubstars_manets3");
@@ -372,6 +394,8 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
   <br>
   S. Y. Chun, **Gwanghyun Kim**, H. Kim, H. Seo, D U Kang
   <br>
+  U.S. Patent Application, Filed, No. 19/019,060, 2025 
+  <br>
   Korean Patent, Filed, No. 10-2024-0115484, 2024
 
 - **Multi-Modal Diffusion with Mixture of Timesteps**
@@ -434,13 +458,13 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 - **BeyondScene: Higher-Resolution Human-Scene Generation With Pretrained Diffusion**
   <br>
   Cohere For AI, Cohere (Remote), 2024
-- **Tutorial on Denoising Diffusion Model**
+- **Tutorial on Denoising Diffusion Models**
   <br>
   Bioimaging Winter School, IEIE, 2024
-- **Audio-Video Latent Diffusion Model**
+- **Audio-Video Latent Diffusion Models**
   <br>
   Google Research, Google, 2024
-- **Text-driven Control of 2D/3D Image Using Diffusion: DiffusionCLIP and DATID-3D**
+- **Text-driven Control of 2D/3D Image Using Diffusion: DiffusionCLIP & DATID-3D**
   <br>
   Innerverz Seminar, Innerverz (Remote), 2023
 - **DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation**
@@ -456,7 +480,7 @@ Also, I'm interested in distributed learning (federated/split learning), and wea
 
 
 ## Services
-- **Conference reviewers:** CVPR, ICCV, ECCV, NeurIPS, ICLR, AAAI
+- **Conference reviewers:** CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, AAAI
 - **Journal Reviewers:** T-PAMI, T-CSVT, ACM Comput Surv
 
 ## Mentoring
