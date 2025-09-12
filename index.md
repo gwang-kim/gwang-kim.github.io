@@ -25,10 +25,14 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   Nov. 2022 - Oct. 2023, Seoul, Korea
 
 ## Research Interests
-My research focuses on artificial intelligence (AI), particularly in computer vision (CV) and its intersection with **Generative AI**. I'm driven to leverage Generative AI's capabilities to tackle complex problems. My work explores three key areas:
-- **Multimodal Generative AI** (Image, Video, Text, Audio, Depth, Normal, Motion, 3D)
-- **High-Dimensional Generative AI** (>8K image, Video, 3D, 4D)
-- **Human-Centric Generative AI** (Human face, Digital humans, Human-centric scene)
+My research focuses on overcoming fundamental limitations of current **Generative AI** by building models that genuinely understand the world. I pursue this through three core directions:
+
+  - **3D World Understanding:** Leveraging 3D geometry to achieve high-fidelity generation, precise control, and robust occlusion handling.
+  - **Multimodal Control:** Integrating diverse modalities—such as audio, identity, pose, and geometry—for nuanced and controllable synthesis.
+  - **Temporal Dynamics:** Modeling realistic motion and interactions to ensure temporally coherent content generation.
+
+I am also interested in distributed learning (e.g., federated and split learning), as well as weakly- and self-supervised learning paradigms.
+
 
 Also, I'm interested in distributed learning (federated/split learning), and weakly- and self-supervised learning.
 
