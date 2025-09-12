@@ -423,7 +423,7 @@ My research focuses on overcoming fundamental limitations of current **Generativ
   <br>
   J. C. Ye, S. Park, **Gwanghyun Kim**
   <br>
-  U.S. Patent, Granted, No. 12,169,933, 2024 \\
+  U.S. Patent, Granted, No. 12,169,933, 2024
   <br>
   Korean Patent, Granted, No. 10-2558096, 2023
 
@@ -431,7 +431,7 @@ My research focuses on overcoming fundamental limitations of current **Generativ
   <br>
   J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**
   <br>
-  U.S. Patent, Granted, No. 12,056,880, 2024 \\
+  U.S. Patent, Granted, No. 12,056,880, 2024
   <br>
   Korean Patent, Granted, No. 10-2021-0039509, 2023
 
