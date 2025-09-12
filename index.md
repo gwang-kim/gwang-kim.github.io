@@ -31,7 +31,6 @@ My research focuses on overcoming fundamental limitations of current **Generativ
   - **Multimodal Control:** Integrating diverse modalities such as audio, identity, pose, and geometry for nuanced and controllable synthesis.
   - **Temporal Dynamics:** Modeling realistic motion and interactions to ensure temporally coherent content generation.
 
-I am also interested in distributed learning (e.g., federated and split learning), as well as weakly- and self-supervised learning paradigms.
 
 
 ## <b style="color:#F88017">News</b>
@@ -392,7 +391,7 @@ I am also interested in distributed learning (e.g., federated and split learning
   <br>
   S. Y. Chun, **Gwanghyun Kim**, H. Kim, H. Seo, D U Kang
   <br>
-  U.S. Patent Application, Filed, No. 19/019,060, 2025 
+  U.S. Patent, Filed, No. 19,019,060, 2025 
   <br>
   Korean Patent, Filed, No. 10-2024-0115484, 2024
 
@@ -400,14 +399,14 @@ I am also interested in distributed learning (e.g., federated and split learning
   <br>
   K. Somandepalli, **Gwanghyun Kim**,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker
   <br>
-  U.S. Patent Application, Filed, No. 63/548,776, 2024
+  U.S. Patent, Filed, No. 63,548,776, 2024
 
 
 - **Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion**
   <br>
   S. Y. Chun, **Gwanghyun Kim**
   <br>
-  U.S. Patent Application, Filed, No. 18/933,335, 2024
+  U.S. Patent, Filed, No. 18,933,335, 2024
   <br>
   Korean Patent, Filed, No. 10-2023-0149926, 2023
 
@@ -415,7 +414,7 @@ I am also interested in distributed learning (e.g., federated and split learning
   <br>
   S. Y. Chun, **Gwanghyun Kim**
   <br>
-  U.S. Patent Application, Filed, No. 18/534,243, 2023
+  U.S. Patent, Filed, No. 18,534,243, 2023
   <br>
   Korean Patent, Filed, No. 10-2023-0107395, 2023
 
@@ -424,7 +423,7 @@ I am also interested in distributed learning (e.g., federated and split learning
   <br>
   J. C. Ye, S. Park, **Gwanghyun Kim**
   <br>
-  U.S. Patent Application, Filed, No. 17/704,879, 2022
+  U.S. Patent, Granted, No. 12,169,933, 2024 \\
   <br>
   Korean Patent, Granted, No. 10-2558096, 2023
 
@@ -432,9 +431,9 @@ I am also interested in distributed learning (e.g., federated and split learning
   <br>
   J. C. Ye, S. Park, Y. Oh, **Gwanghyun Kim**
   <br>
-  U.S. Patent Application, Filed, No. 17/352,229, 2022
+  U.S. Patent, Granted, No. 12,056,880, 2024 \\
   <br>
-  Korean Patent, Filed, No. 10-2021-0039509, 2023
+  Korean Patent, Granted, No. 10-2021-0039509, 2023
 
 
 
