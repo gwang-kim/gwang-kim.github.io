@@ -34,6 +34,7 @@ My research focuses on advance **generative AI** by building models that **genui
 
 
 ## <b style="color:#F88017">News</b>
+- **[Sep. 2025]** We won the 2nd place award in [REG 2025](https://reg2025.grand-challenge.org), the challenge on vision-language foundation models for pathology report generation.
 - **[Jun.  2025]** [GeoMan](https://arxiv.org/abs/2505.23085), done at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/), and [PersonaCraft](https://arxiv.org/abs/2411.18068) are accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
 - **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762), done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>, is accepted to [NeurIPS 2024](https://neurips.cc/).
@@ -67,7 +68,7 @@ My research focuses on advance **generative AI** by building models that **genui
     <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">HUG3D: Human Group-Aware Multi-View Diffusion with Canonicalized View Transform for Single Image to 3D</div>
+      <div class="title">HUG3D: Human Group-Aware 3D Reconstruction from a Single Image with Physical Interaction</div>
       <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
     <div class="periodical"><em><strong>Under review, 2025</strong></em>
       </div>
@@ -439,6 +440,7 @@ My research focuses on advance **generative AI** by building models that **genui
 
 ## Awards and Honors
 
+- **[REG 2025](https://reg2025.grand-challenge.org) (€400)**, MICCAI, 2025
 - **[Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships) ($3,000)**, Google, 2024
 - **[Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners) ($4,000)**, Qualcomm, 2023
 - **[Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
