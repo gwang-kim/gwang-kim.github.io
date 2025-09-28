@@ -440,7 +440,7 @@ My research focuses on advance **generative AI** by building models that **genui
 
 ## Awards and Honors
 
-- **[REG 2025](https://reg2025.grand-challenge.org) (€400)**, MICCAI, 2025
+- **[Report Generation in Pathology Using Pan-Asia Giga-Pixel WSIs](https://reg2025.grand-challenge.org) (€400)**, MICCAI, 2025
 - **[Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships) ($3,000)**, Google, 2024
 - **[Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners) ($4,000)**, Qualcomm, 2023
 - **[Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023
