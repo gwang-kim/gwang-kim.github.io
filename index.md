@@ -25,7 +25,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   Nov. 2022 - Oct. 2023, Seoul, Korea
 
 ## Research Interests
-My research focuses on advance **generative AI** by building models that **genuinely understand the world**. I pursue this through three core directions:
+My research aims to advance **generative AI** by building models that **genuinely understand the world**. I pursue this through three core directions:
 
   - **3D World Understanding:** Leveraging 3D geometry to achieve high-fidelity generation, precise control, and robust occlusion handling.
   - **Multimodal Control:** Integrating diverse modalities such as audio, identity, pose, and geometry for nuanced and controllable synthesis.
