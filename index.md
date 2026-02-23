@@ -24,16 +24,18 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
   <br>
   Nov. 2022 - Oct. 2023, Seoul, Korea
 
-## Research Interests
-My research aims to advance **generative AI** by building models that **genuinely understand the world**. I pursue this through three core directions:
 
-  - **3D World Understanding:** Leveraging 3D geometry to achieve high-fidelity generation, precise control, and robust occlusion handling.
+## Research Interests
+My research aims to advance **multimodal generative modeling** for **understanding and synthesizing the physical world**. I pursue this through three core directions:
+
+  - **3D World Understanding:** Leveraging 3D geometry for high-fidelity generation, precise control, and robust occlusion handling.
   - **Multimodal Control:** Integrating diverse modalities such as audio, identity, pose, and geometry for nuanced and controllable synthesis.
-  - **Temporal Dynamics:** Modeling realistic motion and interactions to ensure temporally coherent content generation.
+  - **Temporal Dynamics:** Modeling realistic motion and interactions for temporally coherent content generation.
 
 
 
 ## <b style="color:#F88017">News</b>
+- **[Feb. 2026]** *HUG-3D* is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
 - **[Sep. 2025]** We won the 2nd place award in [REG 2025](https://reg2025.grand-challenge.org), the challenge on vision-language foundation models for pathology report generation.
 - **[Jun.  2025]** [GeoMan](https://arxiv.org/abs/2505.23085), done at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/), and [PersonaCraft](https://arxiv.org/abs/2411.18068) are accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
@@ -66,11 +68,12 @@ My research aims to advance **generative AI** by building models that **genuinel
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">CVPR</abbr>
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">HUG3D: Human Group-Aware 3D Reconstruction from a Single Image with Physical Interaction</div>
+      <div class="title">Human Interaction-Aware 3D Reconstruction from a Single Image</div>
       <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
-    <div class="periodical"><em><strong>Under review, 2025</strong></em>
+    <div class="periodical"><em><strong>CVPR 2026</strong></em>
       </div>
     <!-- <div class="links">
       <a href="https://arxiv.org/pdf/XXXX.XXXXX" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -78,9 +81,6 @@ My research aims to advance **generative AI** by building models that **genuinel
   </div>
 </div>
 </li>
-
-
-
 
 <li>
 <div class="pub-row">
