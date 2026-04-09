@@ -3,11 +3,22 @@ layout: homepage
 ---
 
 ## Welcome!
-I am a Ph.D. candidate in electrical and computer engineering (ECE) at Seoul National University (SNU), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi).
+I am a Research Scientist at [<span style="color:#72BB21">NVIDIA</span> GEAR](https://research.nvidia.com/labs/gear/), working on robot foundation models and world models.
+I received my Ph.D. in electrical and computer engineering (ECE) from Seoul National University (SNU), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi).
   I completed my M.S. in Bio and Brain Engineering (BBE) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
-I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University, advised by Prof. [Dong Hyun Kim](http://kimchi.yonsei.ac.kr/default/01/01.php#s1).
+I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University.
 
 ## Experience
+- **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist
+  <br>
+  Manager: [Jim Fan](https://jimfan.me/)
+  <br>
+  Apr. 2026 - Present, Santa Clara, CA (remote)
+- **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist Intern
+  <br>
+  Mentors: [Jim Fan](https://jimfan.me/), [Yuke Zhu](https://www.cs.utexas.edu/~yukez/), and [Joel Jang](https://joeljang.github.io/)
+  <br>
+  Jan. 2026 - Apr. 2026, Santa Clara, CA (remote)
 - **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist Intern
   <br>
   Mentors: [Umar Iqbal](https://www.umariqbal.info/), [Xueting Li](https://sunshineatnoon.github.io/), [Ye Yuan](https://ye-yuan.com/),  [Koki Nagano](https://luminohope.org), and [Tianye Li](https://research.nvidia.com/labs/amri/author/tianye-li)
@@ -26,17 +37,14 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 
 
 ## Research Interests
-My research aims to advance **multimodal generative modeling** for **understanding and synthesizing the physical world**. I pursue this through three core directions:
-
-  - **3D World Understanding:** Leveraging 3D geometry for high-fidelity generation, precise control, and robust occlusion handling.
-  - **Multimodal Control:** Integrating diverse modalities such as audio, identity, pose, and geometry for nuanced and controllable synthesis.
-  - **Temporal Dynamics:** Modeling realistic motion and interactions for temporally coherent content generation.
+My research focuses on **multimodal generative modeling** for **understanding and synthesizing the physical world**. My work has progressed from 2D scene generation, through temporally consistent video and 3D modeling, to environments with physical interactions. I am now building on these foundations to develop **world models and foundation models for robotics**, unifying perception, prediction, and action for real-world embodied agents.
 
 
 
 ## <b style="color:#F88017">News</b>
-- **[Feb. 2026]** *HUG-3D* is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/).
-- **[Sep. 2025]** We won the 2nd place award in [REG 2025](https://reg2025.grand-challenge.org), the challenge on vision-language foundation models for pathology report generation.
+- **[Apr. 2026]** I joined [<span style="color:#72BB21">NVIDIA</span> GEAR](https://research.nvidia.com/labs/gear/) as a Research Scientist!
+- **[Feb. 2026]** [HUG-3D](https://jongheean11.github.io/HUG3D_project/) is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/) as a **Highlight**.
+- **[Sep. 2025]** We won the 2nd place award in [REG 2025](https://reg2025.grand-challenge.org).
 - **[Jun.  2025]** [GeoMan](https://arxiv.org/abs/2505.23085), done at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/), and [PersonaCraft](https://arxiv.org/abs/2411.18068) are accepted to [ICCV 2025](https://iccv.thecvf.com/).
 - **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
 - **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762), done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>, is accepted to [NeurIPS 2024](https://neurips.cc/).
@@ -44,19 +52,25 @@ My research aims to advance **multimodal generative modeling** for **understandi
 - **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/) as a Research Intern.
 - **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>](https://research.google/) as a Student Researcher.
+
+<details>
+<summary style="color:gray;">Show older news</summary>
+
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
 - **[Jul. 2023]** [PODIA-3D](https://arxiv.org/abs/2304.01900) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
 - **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/abs/2304.02827) is available on arXiv.
 - **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
-- **[Nov. 2022]** I start a new postiion as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [Fast Campus](https://fastcampus.co.kr/).
+- **[Nov. 2022]** I start a new position as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [Fast Campus](https://fastcampus.co.kr/).
 - **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
-- **[Jun. 2022]** [DISTL](https://www.nature.com/articles/s41467-022-31514-x) is accepted to [Nature Communications](https://www.nature.com/ncomms/aims?gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcRgreQTZQgfNQoa9T20b_DFX47TpljFwkD09uQTo00ca6hwEV4eqcEaAh1_EALw_wcB).
+- **[Jun. 2022]** [DISTL](https://www.nature.com/articles/s41467-022-31514-x) is accepted to [Nature Communications](https://www.nature.com/ncomms/).
 - **[Mar. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
 - **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
 - **[Dec. 2021]** Our [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) passed exploratory clinical trial.
 - **[Nov. 2021]** [MT-ViT for COVID-19](https://www.sciencedirect.com/science/article/pii/S1361841521003443) is accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
 - **[Sep. 2021]** [FeSTA](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
 - **[Dec. 2020]** We won the 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
+
+</details>
 
 ## Research
 
@@ -67,17 +81,38 @@ My research aims to advance **multimodal generative modeling** for **understandi
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/wam.gif" class="teaser img-fluid z-depth-1 loop">
+  </div>
+  <div id="wam" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2602.15922"> World Action Models are Zero-Shot Policies</a></div>
+      <div class="author">S. Ye<sup>†</sup>, Y. Ge*, K. Zheng*, S. Gao*, S. Yu*, ..., <strong>Gwanghyun Kim</strong>, ..., Y. Chebotar, S. Reed, J. Kautz, Y. Zhu<sup>†</sup>, J. Fan<sup>†</sup>, J. Jang<sup>†</sup> <strong>(*core, <sup>†</sup>leads)</strong></div>
+    <div class="periodical"><em><strong>arXiv 2026, <span style="color:#72BB21">NVIDIA</span></strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2602.15922" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://dreamzero0.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/dreamzero0/dreamzero" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
     <abbr class="badge">CVPR</abbr>
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Human Interaction-Aware 3D Reconstruction from a Single Image</div>
+      <div class="title"><a href="https://arxiv.org/abs/2604.05436">Human Interaction-Aware 3D Reconstruction from a Single Image</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
-    <div class="periodical"><em><strong>CVPR 2026</strong></em>
+    <div class="periodical"><em><strong>CVPR 2026 (Highlight)</strong></em>
       </div>
-    <!-- <div class="links">
-      <a href="https://arxiv.org/pdf/XXXX.XXXXX" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div> -->
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2604.05436" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://jongheean11.github.io/HUG3D_project/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+    </div>
   </div>
 </div>
 </li>
@@ -388,6 +423,13 @@ My research aims to advance **multimodal generative modeling** for **understandi
 
 ## Patents
 
+
+- **Full-Body Multi-Person Image Generation Reflecting Individual Facial, Body, and Pose Characteristics with Distortion Prevention**
+  <br>
+  **Gwanghyun Kim**, D. Ban, S.Lee, S. Y. Jeon, S. Y. Chun
+  <br>
+  Korean Patent, Filed, No. 10-2026-0059245, 2026
+
 - **Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion**
   <br>
   S. Y. Chun, **Gwanghyun Kim**, H. Kim, H. Seo, D U Kang
@@ -409,7 +451,7 @@ My research aims to advance **multimodal generative modeling** for **understandi
   <br>
   U.S. Patent, Filed, No. 18,933,335, 2024
   <br>
-  Korean Patent, Filed, No. 10-2023-0149926, 2023
+  Korean Patent, Granted, No. 10-2944713, 2026
 
 - **Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**
   <br>
@@ -417,7 +459,7 @@ My research aims to advance **multimodal generative modeling** for **understandi
   <br>
   U.S. Patent, Filed, No. 18,534,243, 2023
   <br>
-  Korean Patent, Filed, No. 10-2023-0107395, 2023
+  Korean Patent, Granted, No. 10-2903508, 2025
 
 
 - **Severity quantification and lesion localization method of infectious disease on cxr using vision transformer and apparatus therefor**
@@ -440,7 +482,7 @@ My research aims to advance **multimodal generative modeling** for **understandi
 
 ## Awards and Honors
 
-- **[2nd Place Award in Report Generation in Pathology Using Pan-Asia Giga-Pixel WSIs](https://reg2025.grand-challenge.org) (€400)**, MICCAI, 2025
+- **[2nd Place Award in REG 2025 Challenge](https://reg2025.grand-challenge.org) (€400)**, MICCAI, 2025
 - **[Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships) ($3,000)**, Google, 2024
 - **[Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners) ($4,000)**, Qualcomm, 2023
 - **[Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3) ($8,000)**, Youlchon Foundation & SNU AI Institute, 2023

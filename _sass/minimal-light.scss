@@ -452,3 +452,41 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+#news-recent ul,
+#news-old ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin: 0 0 10px;
+}
+
+#news-recent li,
+#news-old li {
+  margin-bottom: 4px;
+}
+
+details summary {
+  cursor: pointer;
+  font-size: 95%;
+  color: #999;
+  outline: none;
+  user-select: none;
+  padding: 4px 0;
+}
+
+details summary:hover {
+  color: #39c;
+}
+
+details[open] summary {
+  margin-bottom: 4px;
+}
+
+@media (prefers-color-scheme: dark) {
+  details summary {
+    color: #777;
+  }
+  details summary:hover {
+    color: rgb(62, 183, 240);
+  }
+}
