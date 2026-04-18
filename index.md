@@ -37,7 +37,7 @@ I earned my B.S degree in electrical and electronic engineering (EEE) from Yonse
 
 
 ## Research Interests
-My research focuses on **multimodal generative modeling** for **understanding and synthesizing the physical world**. My work has progressed from 2D scene generation, through temporally consistent video and 3D modeling, to environments with physical interactions. I am now building on these foundations to develop **world models and foundation models for robotics**, unifying perception, prediction, and action for real-world embodied agents.
+My research focuses on building **world models and foundation models for robotics**, unifying perception, prediction, and action for real-world embodied agents. This builds on my work in **multimodal generative modeling** for understanding and synthesizing the physical world — spanning 2D/3D scene generation, temporally consistent video modeling, and environments with physical interactions.
 
 
 
