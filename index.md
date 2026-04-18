@@ -3,15 +3,13 @@ layout: homepage
 ---
 
 ## Welcome!
-I am a Research Scientist at [<span style="color:#72BB21">NVIDIA</span> GEAR](https://research.nvidia.com/labs/gear/), working on robot foundation models and world models.
+I am a Research Scientist at [<span style="color:#72BB21">NVIDIA</span> GEAR](https://research.nvidia.com/labs/gear/), working on world models and foundation models for robotics.
 I received my Ph.D. in electrical and computer engineering (ECE) from Seoul National University (SNU), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi).
   I completed my M.S. in Bio and Brain Engineering (BBE) at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html).
 I earned my B.S degree in electrical and electronic engineering (EEE) from Yonsei University.
 
 ## Experience
 - **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist
-  <br>
-  Manager: [Jim Fan](https://jimfan.me/)
   <br>
   Apr. 2026 - Present, Santa Clara, CA (remote)
 - **<span style="color:#72BB21">NVIDIA</span> Research**, Research Scientist Intern
