@@ -51,7 +51,7 @@ My research focuses on building **world models and foundation models for robotic
 - **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 - **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>](https://research.google/) as a Student Researcher.
 
-<details>
+<details markdown="1">
 <summary style="color:gray;">Show older news</summary>
 
 - **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
@@ -83,7 +83,7 @@ My research focuses on building **world models and foundation models for robotic
   </div>
   <div id="wam" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2602.15922"> World Action Models are Zero-Shot Policies</a></div>
-      <div class="author">S. Ye<sup>†</sup>, Y. Ge*, K. Zheng*, S. Gao*, S. Yu*, ..., <strong>Gwanghyun Kim</strong>, ..., Y. Chebotar, S. Reed, J. Kautz, Y. Zhu<sup>†</sup>, J. Fan<sup>†</sup>, J. Jang<sup>†</sup> <strong>(*core, <sup>†</sup>leads)</strong></div>
+      <div class="author">S. Ye<sup>†</sup>, Y. Ge*, K. Zheng*, S. Gao*, S. Yu*, ..., <strong>Gwanghyun Kim</strong>, ..., Y. Chebotar, S. Reed, J. Kautz, Y. Zhu<sup>†</sup>, J. Fan<sup>†</sup>, J. Jang<sup>†</sup> (*core, <sup>†</sup>leads)</div>
     <div class="periodical"><em><strong>arXiv 2026, <span style="color:#72BB21">NVIDIA</span></strong></em>
       </div>
     <div class="links">
@@ -100,7 +100,7 @@ My research focuses on building **world models and foundation models for robotic
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
-    <abbr class="badge">CVPR</abbr>
+    <abbr class="badge">CVPR Highlight</abbr>
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2604.05436">Human Interaction-Aware 3D Reconstruction from a Single Image</a></div>
@@ -124,7 +124,7 @@ My research focuses on building **world models and foundation models for robotic
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2505.23085">GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion</a></div>
       <div class="author"><strong>Gwanghyun Kim</strong>,  X. Li, Y. Yuan, K. Nagano, T. Li, J. Kautz, S. Y. Chun, U. Iqbal </div>
-    <div class="periodical"><em><strong>ICCV 2025, done at <span style="color:#72BB21">NVIDIA</span></strong></em>
+    <div class="periodical"><em><strong>ICCV 2025, <span style="color:#72BB21">NVIDIA</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.23085" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -171,7 +171,7 @@ My research focuses on building **world models and foundation models for robotic
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.13762">A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, K. Somandepalli* <strong>(*co-first)</strong> </div>
-      <div class="periodical"><em><strong>NeurIPS 2024, done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
+      <div class="periodical"><em><strong>NeurIPS 2024, <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2405.13762" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
