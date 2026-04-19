@@ -41,8 +41,7 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 
 <style>
 #news-list { font-size: 0.95rem; line-height: 1.6; padding-left: 15px; margin-top: 0; margin-bottom: 0; }
-#news-list li { margin-bottom: 4px; list-style: none; }
-#news-list li::before { content: "- "; }
+#news-list li { margin-bottom: 4px; list-style: disc; }
 #more-news { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; margin: 0; padding: 0; }
 #more-news.expanded { max-height: 600px; }
 #toggle-news { color: #999; font-size: 0.9rem; text-decoration: none; transition: color 0.2s; }
