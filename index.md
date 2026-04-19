@@ -97,7 +97,7 @@ function toggleNews() {
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2604.05436">Human Interaction-Aware 3D Reconstruction from a Single Image</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
-    <div class="periodical"><em><strong>CVPR 2026 (<span style="color:#e74d3c">Highlight</span>)</strong></em>
+    <div class="periodical"><em><strong>CVPR 2026 <span style="color:#e74d3c">(Highlight)</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2604.05436" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
