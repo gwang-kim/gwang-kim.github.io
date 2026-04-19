@@ -1,11 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background-color: #fff;
   padding:0px;
-  font: 16.0px/1.5 Crimson Pro, serif;
-  color:#595959;
+  font: 16.0px/1.6 Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color:#444;
   font-weight:400;
   margin:0
 }
@@ -13,9 +17,17 @@ body {
 
 .pub-row {
   display: flex;
-  align-items: center;}
+  align-items: center;
+  padding: 12px 8px;
+  border-radius: 8px;
+  transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
 
-.social-icons a{display:inline-block;color:#444!important;text-align:center;font-size:1.2rem;margin-right:0.8rem;text-decoration:none}.social-icons a:last-child{margin-right:0}.social-icons a:hover{color:#000!important}
+.pub-row:hover {
+  background-color: #f8f9fa;
+}
+
+.social-icons a{display:inline-block;color:#555!important;text-align:center;font-size:1.2rem;margin-right:0.9rem;text-decoration:none;transition:color 0.2s ease, transform 0.2s ease}.social-icons a:last-child{margin-right:0}.social-icons a:hover{color:#111!important;transform:scale(1.15)}
 
 autocolor{
   color:#494949;
@@ -98,6 +110,7 @@ papertitle {
         border-radius: 100%;
         width: 70%;
         padding:20px;
+        box-shadow: 0 0 0 3px #f0f0f0;
       }
 
     #header .image.avatar {
@@ -142,6 +155,7 @@ h1 {
 a {
   color:#39c;
   text-decoration:none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
@@ -166,7 +180,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1080px;
   margin:0 auto;
 }
 
@@ -226,12 +240,34 @@ img {
 }
 
 header {
-  width:220px;
+  width:250px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top:4.0em;
+  padding-top:3.0em;
   text-align:center
+}
+
+header h1 {
+  margin-bottom: 0.3rem;
+}
+
+header .header-position {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-bottom: 0.15rem;
+}
+
+header .header-affiliation {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 500;
+  margin-bottom: 0.8rem;
+}
+
+header .social-icons {
+  margin-bottom: 1.5rem;
 }
 
 
@@ -302,9 +338,9 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:740px;
   float:right;
-  padding-top:4.0em;
+  padding-top:3.0em;
   padding-bottom:50px;
 }
 
@@ -320,7 +356,7 @@ hr {
 }
 
 footer {
-  width:220px;
+  width:250px;
   float:left;
   position:fixed;
   bottom:30px;
@@ -328,7 +364,7 @@ footer {
   text-align:center;
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1080px) {
 
   div.wrapper {
     width:auto;
@@ -379,7 +415,7 @@ footer {
   
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 1080px) {
   body {
     word-wrap:break-word;
     padding:15px;
@@ -422,6 +458,15 @@ footer {
   
   #head2o2 {
     visibility: hidden;
+  }
+
+  .pub-row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .social-icons a {
+    margin-right: 1.1rem;
   }
 
 }
@@ -488,5 +533,23 @@ details[open] summary {
   }
   details summary:hover {
     color: rgb(62, 183, 240);
+  }
+  .pub-row:hover {
+    background-color: #2a2b36;
+  }
+  .image.avatar img {
+    box-shadow: 0 0 0 3px #3a3b46;
+  }
+  .social-icons a {
+    color: #aaa !important;
+  }
+  .social-icons a:hover {
+    color: #eee !important;
+  }
+  #toggle-news {
+    color: #777;
+  }
+  #toggle-news:hover {
+    color: #aaa;
   }
 }

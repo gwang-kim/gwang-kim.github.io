@@ -23,7 +23,7 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 <li><b>[Nov. 2023]</b> I won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship South Korea 2023</a>.</li>
 <li><b>[Sep. 2023]</b> I joined <a href="https://research.google/"><span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></a> as a Student Researcher.</li>
 </ul>
-<div id="more-news" style="display:none;">
+<div id="more-news">
 <ul id="news-list">
 <li><b>[Aug. 2023]</b> I am selected as a recipient of <a href="https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3">Yulchon AI Star Scholarships</a>.</li>
 <li><b>[Jul. 2023]</b> <a href="https://arxiv.org/abs/2304.01900">PODIA-3D</a> is accepted to <a href="https://iccv2023.thecvf.com/">ICCV 2023</a>.</li>
@@ -41,9 +41,10 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 
 <style>
 #news-list { font-size: 0.95rem; line-height: 1.6; padding-left: 15px; margin-top: 0; margin-bottom: 0; }
-#news-list li { margin-bottom: 3px; list-style: none; }
+#news-list li { margin-bottom: 4px; list-style: none; }
 #news-list li::before { content: "- "; }
-#more-news { margin: 0; padding: 0; }
+#more-news { max-height: 0; overflow: hidden; transition: max-height 0.4s ease; margin: 0; padding: 0; }
+#more-news.expanded { max-height: 600px; }
 #toggle-news { color: #999; font-size: 0.9rem; text-decoration: none; transition: color 0.2s; }
 #toggle-news:hover { color: #555; }
 </style>
@@ -51,11 +52,11 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 function toggleNews() {
   var moreNews = document.getElementById("more-news");
   var button = document.getElementById("toggle-news");
-  if (moreNews.style.display === "none") {
-    moreNews.style.display = "block";
+  if (!moreNews.classList.contains("expanded")) {
+    moreNews.classList.add("expanded");
     button.innerText = "Show Less";
   } else {
-    moreNews.style.display = "none";
+    moreNews.classList.remove("expanded");
     button.innerText = "Show More";
   }
 }
