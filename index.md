@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Research Scientist at [<span style="color:#72BB21">NVIDIA</span> GEAR](https://research.nvidia.com/labs/gear/), working on world models and foundation models for robotics. My research focuses on unifying perception, prediction, and action for real-world embodied agents, building on my background in multimodal generative modeling of the physical world.
+I am a Research Scientist at [<span style="color:#72BB21">NVIDIA</span> GEAR](https://research.nvidia.com/labs/gear/), working on robot foundation models and world models. My research focuses on unifying perception, prediction, and action for real-world embodied agents, building on my background in multimodal generative modeling of the physical world.
 
 I received my Ph.D. in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi), and my M.S. in Bio and Brain Engineering from [KAIST](https://www.kaist.ac.kr/en/), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I interned at [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) and [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/). My research has been supported by the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 
@@ -191,6 +191,27 @@ function toggleNews() {
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/podia_3d.gif" class="teaser img-fluid z-depth-1 ">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+  <div id="podia_3d" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2304.01900">PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain Gap Using Pose-Preserved Text-to-Image Diffusion</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong>, J. H. Jang, S. Y. Chun </div>
+      <div class="periodical"><em><strong>ICCV 2023</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2304.01900.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://gwang-kim.github.io/podia_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/gwang-kim/PODIA-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/datid_3d.gif" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
@@ -220,6 +241,26 @@ function toggleNews() {
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/ditto_nerf.gif" class="teaser img-fluid z-depth-1">
+  </div>
+  <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/abs/2304.02827">DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model </a></div>
+      <div class="author">H. Seo*, H. Kim*, <strong>Gwanghyun Kim*</strong>, S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>arxiv 2023</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2304.02827.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://janeyeon.github.io/ditto-nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/janeyeon/ditto-nerf-code" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/diffusionclip.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">CVPR</abbr>
   </div>
@@ -239,6 +280,63 @@ function toggleNews() {
         startext.innerHTML=stars;
   });
   </script>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/self_evolving.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Nat. Commun.</abbr>
+  </div>
+  <div id="mt_vit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://www.nature.com/articles/s41467-022-31514-x">AI can evolve without labels: self-evolving vision transformer for chest X-ray diagnosis through knowledge distillation</a></div>
+      <div class="author">S. Park, <strong>Gwanghyun Kim</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim,  C. M. Park, J. C. Ye </div>
+      <div class="periodical"><em><strong>Nature Communications, 2022 </strong></em>
+      </div>
+    <div class="links">
+      <a href="https://www.nature.com/articles/s41467-022-31514-x" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/festa.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS</abbr>
+  </div>
+  <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf">Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training</a></div>
+      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, J. Kim, B. Kim, J. C. Ye <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>NeurIPS 2021 </strong></em>
+      </div>
+    <div class="links">
+      <a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/mt_vit.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Med. Image Anal.</abbr>
+  </div>
+  <div id="mt_vit2" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003443">Multi-task Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification</a></div>
+      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye <strong>(*co-first)</strong> </div>
+      <div class="periodical"><em><strong>Medical Image Analysis, 2021 </strong></em>
+      </div>
+    <div class="links">
+      <a href="https://www.sciencedirect.com/science/article/pii/S1361841521003443" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
