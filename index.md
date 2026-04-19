@@ -70,15 +70,15 @@ My research focuses on building **world models and foundation models for robotic
 <li><b>[Dec. 2020]</b> We won the 2nd place award in <a href="https://dreamai.kr/fair_nvidia">NVIDIA AI Healthcare Hackathon</a>.</li>
 </ul>
 </div>
-<button id="toggle-news" onclick="toggleNews()">Show More</button>
+<a id="toggle-news" onclick="toggleNews()" style="cursor:pointer;">Show More</a>
 
 <style>
 #news-list { font-size: 0.95rem; line-height: 1.6; padding-left: 15px; margin-top: 0; margin-bottom: 0; }
 #news-list li { margin-bottom: 3px; list-style: none; }
 #news-list li::before { content: "- "; }
 #more-news { margin: 0; padding: 0; }
-#toggle-news { background-color: #999; color: white; font-size: 0.85rem; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; transition: background-color 0.3s ease-in-out; margin-top: 8px; }
-#toggle-news:hover { background-color: #777; }
+#toggle-news { color: #999; font-size: 0.9rem; text-decoration: none; transition: color 0.2s; }
+#toggle-news:hover { color: #555; }
 </style>
 <script>
 function toggleNews() {
@@ -94,7 +94,7 @@ function toggleNews() {
 }
 </script>
 
-## Research
+## Selected Research
 
 <div class="publications">
 <ol class="bibliography">
