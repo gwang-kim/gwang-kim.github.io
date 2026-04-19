@@ -40,35 +40,58 @@ My research focuses on building **world models and foundation models for robotic
 
 
 ## <b style="color:#F88017">News</b>
-- **[Apr. 2026]** I joined [<span style="color:#72BB21">NVIDIA</span> GEAR](https://research.nvidia.com/labs/gear/) as a Research Scientist!
-- **[Feb. 2026]** [HUG-3D](https://jongheean11.github.io/HUG3D_project/) is accepted to [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026/) as a **Highlight**.
-- **[Sep. 2025]** We won the 2nd place award in [REG 2025](https://reg2025.grand-challenge.org).
-- **[Jun.  2025]** [GeoMan](https://arxiv.org/abs/2505.23085), done at [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/), and [PersonaCraft](https://arxiv.org/abs/2411.18068) are accepted to [ICCV 2025](https://iccv.thecvf.com/).
-- **[Oct. 2024]** I won the [Google Conference Scholarship](https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships).
-- **[Sep. 2024]** [AVDiT & MoNL](https://arxiv.org/abs/2405.13762), done at <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>, is accepted to [NeurIPS 2024](https://neurips.cc/).
-- **[Jul. 2024]** [BeyondScene](https://arxiv.org/abs/2404.04544) is accepted to [ECCV 2024](https://eccv2024.ecva.net/).
-- **[Jan. 2024]** I joined [<span style="color:#72BB21">NVIDIA</span>](https://www.nvidia.com/en-us/research/) as a Research Intern.
-- **[Nov. 2023]** I won the [Qualcomm Innovation Fellowship South Korea 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
-- **[Sep. 2023]** I joined [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>](https://research.google/) as a Student Researcher.
 
-<details markdown="1">
-<summary style="color:gray;">Show older news</summary>
+<ul id="news-list">
+<li><b>[Apr. 2026]</b> I joined <a href="https://research.nvidia.com/labs/gear/"><span style="color:#72BB21">NVIDIA</span> GEAR</a> as a Research Scientist!</li>
+<li><b>[Feb. 2026]</b> <a href="https://jongheean11.github.io/HUG3D_project/">HUG-3D</a> is accepted to <a href="https://cvpr.thecvf.com/Conferences/2026/">CVPR 2026</a> as a <b>Highlight</b>.</li>
+<li><b>[Sep. 2025]</b> We won the 2nd place award in <a href="https://reg2025.grand-challenge.org">REG 2025</a>.</li>
+<li><b>[Jun. 2025]</b> <a href="https://arxiv.org/abs/2505.23085">GeoMan</a> (<span style="color:#72BB21">NVIDIA</span>) and <a href="https://arxiv.org/abs/2411.18068">PersonaCraft</a> are accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
+<li><b>[Oct. 2024]</b> I won the <a href="https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships">Google Conference Scholarship</a>.</li>
+<li><b>[Sep. 2024]</b> <a href="https://arxiv.org/abs/2405.13762">AVDiT & MoNL</a> (<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>) is accepted to <a href="https://neurips.cc/">NeurIPS 2024</a>.</li>
+<li><b>[Jul. 2024]</b> <a href="https://arxiv.org/abs/2404.04544">BeyondScene</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
+<li><b>[Jan. 2024]</b> I joined <a href="https://www.nvidia.com/en-us/research/"><span style="color:#72BB21">NVIDIA</span></a> as a Research Intern.</li>
+<li><b>[Nov. 2023]</b> I won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship South Korea 2023</a>.</li>
+<li><b>[Sep. 2023]</b> I joined <a href="https://research.google/"><span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></a> as a Student Researcher.</li>
+</ul>
+<div id="more-news" style="display:none;">
+<ul id="news-list">
+<li><b>[Aug. 2023]</b> I am selected as a recipient of <a href="https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3">Yulchon AI Star Scholarships</a>.</li>
+<li><b>[Jul. 2023]</b> <a href="https://arxiv.org/abs/2304.01900">PODIA-3D</a> is accepted to <a href="https://iccv2023.thecvf.com/">ICCV 2023</a>.</li>
+<li><b>[Apr. 2023]</b> <a href="https://arxiv.org/abs/2304.02827">Ditto-NeRF</a> is available on arXiv.</li>
+<li><b>[Feb. 2023]</b> <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf">DATID-3D</a> is accepted to <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a>.</li>
+<li><b>[Nov. 2022]</b> I start a new position as <a href="https://fastcampus.co.kr/data_online_ganmodel">Lecturer in AI</a> at <a href="https://fastcampus.co.kr/">Fast Campus</a>.</li>
+<li><b>[Aug. 2022]</b> <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html">DiffusionCLIP</a> is invited to oral session at <a href="http://kccv2022.kcvs.kr/">KCCV 2022</a>.</li>
+<li><b>[Jun. 2022]</b> <a href="https://www.nature.com/articles/s41467-022-31514-x">DISTL</a> is accepted to <a href="https://www.nature.com/ncomms/">Nature Communications</a>.</li>
+<li><b>[Mar. 2022]</b> <a href="https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html">DiffusionCLIP</a> is accepted to <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a>.</li>
+<li><b>[Dec. 2021]</b> I won the <a href="https://bispl.weebly.com/bispl-hall-of-fame">Best Master Student for the Year Award</a> at <a href="https://bispl.weebly.com/">BISPL</a>, KAIST.</li>
+<li><b>[Dec. 2021]</b> Our <a href="https://www.promedius.ai/product/1">AI-based COVID-19 diagnosis solution</a> passed exploratory clinical trial.</li>
+<li><b>[Nov. 2021]</b> <a href="https://www.sciencedirect.com/science/article/pii/S1361841521003443">MT-ViT for COVID-19</a> is accepted to <a href="https://www.journals.elsevier.com/medical-image-analysis">Medical Image Analysis</a>.</li>
+<li><b>[Sep. 2021]</b> <a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf">FeSTA</a> is accepted to <a href="https://neurips.cc/Conferences/2021">NeurIPS 2021</a>.</li>
+<li><b>[Dec. 2020]</b> We won the 2nd place award in <a href="https://dreamai.kr/fair_nvidia">NVIDIA AI Healthcare Hackathon</a>.</li>
+</ul>
+</div>
+<button id="toggle-news" onclick="toggleNews()">Show More</button>
 
-- **[Aug. 2023]** I am selected as a recipient of [Yulchon AI Star Scholarships](https://aiis.snu.ac.kr/bbs/board.php?bo_table=eng4_3). 
-- **[Jul. 2023]** [PODIA-3D](https://arxiv.org/abs/2304.01900) is accepted to [ICCV 2023](https://iccv2023.thecvf.com/).
-- **[Apr. 2023]** [Ditto-NeRF](https://arxiv.org/abs/2304.02827) is available on arXiv.
-- **[Feb. 2023]** [DATID-3D](https://openaccess.thecvf.com/content/CVPR2023/papers/Kim_DATID-3D_Diversity-Preserved_Domain_Adaptation_Using_Text-to-Image_Diffusion_for_3D_Generative_CVPR_2023_paper.pdf) is accepted to [CVPR 2023](https://cvpr2023.thecvf.com/).
-- **[Nov. 2022]** I start a new position as [Lecturer in AI](https://fastcampus.co.kr/data_online_ganmodel) at [Fast Campus](https://fastcampus.co.kr/).
-- **[Aug. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is invited to oral session at [KCCV 2022](http://kccv2022.kcvs.kr/).
-- **[Jun. 2022]** [DISTL](https://www.nature.com/articles/s41467-022-31514-x) is accepted to [Nature Communications](https://www.nature.com/ncomms/).
-- **[Mar. 2022]** [DiffusionCLIP](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.html) is accepted to [CVPR 2022](https://cvpr2022.thecvf.com/).
-- **[Dec. 2021]** I won the [Best Master Student for the Year Award](https://bispl.weebly.com/bispl-hall-of-fame) at [BISPL](https://bispl.weebly.com/), KAIST.
-- **[Dec. 2021]** Our [AI-based COVID-19 diagnosis solution](https://www.promedius.ai/product/1) passed exploratory clinical trial.
-- **[Nov. 2021]** [MT-ViT for COVID-19](https://www.sciencedirect.com/science/article/pii/S1361841521003443) is accepted to [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis).
-- **[Sep. 2021]** [FeSTA](https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
-- **[Dec. 2020]** We won the 2nd place award in [NVIDIA AI Healthcare Hackathon](https://dreamai.kr/fair_nvidia).
-
-</details>
+<style>
+#news-list { font-size: 0.95rem; line-height: 1.6; padding-left: 15px; }
+#news-list li { margin-bottom: 5px; list-style: none; }
+#news-list li::before { content: "- "; }
+#toggle-news { background-color: #444; color: white; font-size: 0.9rem; border: none; padding: 8px 14px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease-in-out; margin-top: 5px; }
+#toggle-news:hover { background-color: #222; }
+</style>
+<script>
+function toggleNews() {
+  var moreNews = document.getElementById("more-news");
+  var button = document.getElementById("toggle-news");
+  if (moreNews.style.display === "none") {
+    moreNews.style.display = "block";
+    button.innerText = "Show Less";
+  } else {
+    moreNews.style.display = "none";
+    button.innerText = "Show More";
+  }
+}
+</script>
 
 ## Research
 
