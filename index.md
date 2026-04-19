@@ -13,7 +13,7 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 
 <ul id="news-list">
 <li><b>[Apr. 2026]</b> I joined <a href="https://research.nvidia.com/labs/gear/"><span style="color:#72BB21">NVIDIA</span> GEAR</a> as a Research Scientist!</li>
-<li><b>[Feb. 2026]</b> <a href="https://jongheean11.github.io/HUG3D_project/">HUG-3D</a> is accepted to <a href="https://cvpr.thecvf.com/Conferences/2026/">CVPR 2026</a> as a <b>Highlight</b>.</li>
+<li><b>[Feb. 2026]</b> <a href="https://jongheean11.github.io/HUG3D_project/">HUG-3D</a> is accepted to <a href="https://cvpr.thecvf.com/Conferences/2026/">CVPR 2026</a> as a Highlight.</li>
 <li><b>[Sep. 2025]</b> We won the 2nd place award in <a href="https://reg2025.grand-challenge.org">REG 2025</a>.</li>
 <li><b>[Jun. 2025]</b> <a href="https://arxiv.org/abs/2505.23085">GeoMan</a> (<span style="color:#72BB21">NVIDIA</span>) and <a href="https://arxiv.org/abs/2411.18068">PersonaCraft</a> are accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
 <li><b>[Oct. 2024]</b> I won the <a href="https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships">Google Conference Scholarship</a>.</li>
