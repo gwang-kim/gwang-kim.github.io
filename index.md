@@ -92,12 +92,12 @@ function toggleNews() {
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/hug3d.gif" class="teaser img-fluid z-depth-1 loop">
-    <abbr class="badge">CVPR Highlight</abbr>
+    <abbr class="badge">CVPR</abbr>
   </div>
   <div id="nvidia" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2604.05436">Human Interaction-Aware 3D Reconstruction from a Single Image</a></div>
       <div class="author"><strong>Gwanghyun Kim*</strong>, J. J. Kim*, S. Y. Jeon*, J. Park, S. Y. Chun (*co-first authors) </div>
-    <div class="periodical"><em><strong>CVPR 2026 (Highlight)</strong></em>
+    <div class="periodical"><em><strong>CVPR 2026 (<span style="color:#e74d3c">Highlight</span>)</strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2604.05436" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -226,13 +226,6 @@ function toggleNews() {
       <a href="https://gwang-kim.github.io/datid_3d/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
       <a href="https://github.com/gwang-kim/DATID-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/spaces/gwang-kim/DATID-3D" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      <a href="https://github.com/gwang-kim/DATID-3D" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets2"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
-    <script>
-    githubStars("gwang-kim/DATID-3D", function(stars) {
-    var startext = document.getElementById("githubstars_manets2");
-          startext.innerHTML=stars;
-    });
-    </script>
     </div>
   </div>
 </div>
@@ -274,13 +267,6 @@ function toggleNews() {
       <a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_DiffusionCLIP_Text-Guided_Diffusion_Models_for_Robust_Image_Manipulation_CVPR_2022_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/gwang-kim/DiffusionCLIP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://replicate.com/gwang-kim/diffusionclip" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
-      <a href="https://github.com/gwang-kim/DiffusionCLIP" target="_blank" rel="noopener"><strong><i style="color:#e74d3c; font-weight:600" id="githubstars_manets"></i><i style="color:#e74d3c; font-weight:600"> GitHub Stars</i></strong></a>
-  <script>
-  githubStars("gwang-kim/DiffusionCLIP", function(stars) {
-  var startext = document.getElementById("githubstars_manets");
-        startext.innerHTML=stars;
-  });
-  </script>
     </div>
   </div>
 </div>
