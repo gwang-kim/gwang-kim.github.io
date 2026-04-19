@@ -9,7 +9,7 @@ I am a Research Scientist at [<span style="color:#72BB21">NVIDIA</span> GEAR](ht
 I received my Ph.D. in Electrical and Computer Engineering from [Seoul National University](https://en.snu.ac.kr/), advised by Prof. [Se Young Chun](https://icl.snu.ac.kr/pi), and my M.S. in Bio and Brain Engineering from [KAIST](https://www.kaist.ac.kr/en/), advised by Prof. [Jong Chul Ye](https://bispl.weebly.com/professor.html). During my Ph.D., I interned at [<span style="color:#72BB21">NVIDIA</span> Research](https://www.nvidia.com/en-us/research/) and [<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span> Research](https://research.google/). My research has been supported by the [Qualcomm Innovation Fellowship](https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners).
 
 
-## <b style="color:#F88017">News</b>
+## <span style="color:#F88017">News</span>
 
 <ul id="news-list">
 <li><b>[Apr. 2026]</b> I joined <a href="https://research.nvidia.com/labs/gear/"><span style="color:#72BB21">NVIDIA</span> GEAR</a> as a Research Scientist!</li>
