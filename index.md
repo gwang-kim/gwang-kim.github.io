@@ -73,11 +73,12 @@ My research focuses on building **world models and foundation models for robotic
 <button id="toggle-news" onclick="toggleNews()">Show More</button>
 
 <style>
-#news-list { font-size: 0.95rem; line-height: 1.6; padding-left: 15px; }
-#news-list li { margin-bottom: 5px; list-style: none; }
+#news-list { font-size: 0.95rem; line-height: 1.6; padding-left: 15px; margin-top: 0; margin-bottom: 0; }
+#news-list li { margin-bottom: 3px; list-style: none; }
 #news-list li::before { content: "- "; }
-#toggle-news { background-color: #444; color: white; font-size: 0.9rem; border: none; padding: 8px 14px; border-radius: 5px; cursor: pointer; transition: background-color 0.3s ease-in-out; margin-top: 5px; }
-#toggle-news:hover { background-color: #222; }
+#more-news { margin: 0; padding: 0; }
+#toggle-news { background-color: #999; color: white; font-size: 0.85rem; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; transition: background-color 0.3s ease-in-out; margin-top: 8px; }
+#toggle-news:hover { background-color: #777; }
 </style>
 <script>
 function toggleNews() {
