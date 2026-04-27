@@ -71,11 +71,12 @@ function toggleNews() {
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="./assets/research/wam.gif" class="teaser img-fluid z-depth-1 loop">
+    <abbr class="badge">ICLRW</abbr>
   </div>
   <div id="wam" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2602.15922"> World Action Models are Zero-Shot Policies</a></div>
       <div class="author">S. Ye*, Y. Ge, K. Zheng, S. Gao, S. Yu, ..., <strong>Gwanghyun Kim</strong>, ..., Y. Chebotar, S. Reed, J. Kautz, Y. Zhu*, J. Fan*, J. Jang* (*leads)</div>
-    <div class="periodical"><em><strong>arXiv 2026, <span style="color:#72BB21">NVIDIA</span></strong></em>
+    <div class="periodical"><em><strong>ICLRW 2026 World Models <span style="color:#e74d3c">(Outstanding Paper Award)</span>, <span style="color:#72BB21">NVIDIA</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2602.15922" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
