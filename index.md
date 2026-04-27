@@ -12,13 +12,13 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 ## <span style="color:#F88017">News</span>
 
 <ul id="news-list">
-<li><b>[Apr. 2026]</b> <a href="https://dreamzero0.github.io/">DreamZero</a> (<span style="color:#72BB21">NVIDIA</span>) received the Outstanding Paper Award at <a href="https://sites.google.com/view/iclr-2026-workshop-world-model/home">ICLR 2026 Workshop on World Models</a>.</li>
+<li><b>[Apr. 2026]</b> <a href="https://dreamzero0.github.io/">DreamZero</a> received the Outstanding Paper Award at <a href="https://sites.google.com/view/iclr-2026-workshop-world-model/home">ICLR 2026 Workshop on World Models</a>.</li>
 <li><b>[Apr. 2026]</b> I joined <a href="https://research.nvidia.com/labs/gear/"><span style="color:#72BB21">NVIDIA</span> GEAR</a> as a Research Scientist.</li>
 <li><b>[Feb. 2026]</b> <a href="https://jongheean11.github.io/HUG3D_project/">HUG-3D</a> is accepted to <a href="https://cvpr.thecvf.com/Conferences/2026/">CVPR 2026</a> as a Highlight.</li>
 <li><b>[Sep. 2025]</b> We won the 2nd place award in <a href="https://reg2025.grand-challenge.org">REG 2025</a>.</li>
-<li><b>[Jun. 2025]</b> <a href="https://arxiv.org/abs/2505.23085">GeoMan</a> (<span style="color:#72BB21">NVIDIA</span>) and <a href="https://arxiv.org/abs/2411.18068">PersonaCraft</a> are accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
+<li><b>[Jun. 2025]</b> <a href="https://arxiv.org/abs/2505.23085">GeoMan</a> and <a href="https://arxiv.org/abs/2411.18068">PersonaCraft</a> are accepted to <a href="https://iccv.thecvf.com/">ICCV 2025</a>.</li>
 <li><b>[Oct. 2024]</b> I won the <a href="https://buildyourfuture.withgoogle.com/scholarships/google-conference-scholarships">Google Conference Scholarship</a>.</li>
-<li><b>[Sep. 2024]</b> <a href="https://arxiv.org/abs/2405.13762">AVDiT & MoNL</a> (<span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span>) is accepted to <a href="https://neurips.cc/">NeurIPS 2024</a>.</li>
+<li><b>[Sep. 2024]</b> <a href="https://arxiv.org/abs/2405.13762">AVDiT & MoNL</a> is accepted to <a href="https://neurips.cc/">NeurIPS 2024</a>.</li>
 <li><b>[Jul. 2024]</b> <a href="https://arxiv.org/abs/2404.04544">BeyondScene</a> is accepted to <a href="https://eccv2024.ecva.net/">ECCV 2024</a>.</li>
 <li><b>[Jan. 2024]</b> I joined <a href="https://www.nvidia.com/en-us/research/"><span style="color:#72BB21">NVIDIA</span></a> as a Research Intern.</li>
 <li><b>[Nov. 2023]</b> I won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/winners">Qualcomm Innovation Fellowship South Korea 2023</a>.</li>
