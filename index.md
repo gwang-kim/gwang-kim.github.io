@@ -12,6 +12,7 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 ## <span style="color:#F88017">News</span>
 
 <ul id="news-list">
+<li><b>[Apr. 2026]</b> <a href="https://dreamzero0.github.io/">DreamZero</a> (<span style="color:#72BB21">NVIDIA</span>) received the Outstanding Paper Award at <a href="https://sites.google.com/view/iclr-2026-workshop-world-model/home">ICLR 2026 Workshop on World Models</a>.</li>
 <li><b>[Apr. 2026]</b> I joined <a href="https://research.nvidia.com/labs/gear/"><span style="color:#72BB21">NVIDIA</span> GEAR</a> as a Research Scientist.</li>
 <li><b>[Feb. 2026]</b> <a href="https://jongheean11.github.io/HUG3D_project/">HUG-3D</a> is accepted to <a href="https://cvpr.thecvf.com/Conferences/2026/">CVPR 2026</a> as a Highlight.</li>
 <li><b>[Sep. 2025]</b> We won the 2nd place award in <a href="https://reg2025.grand-challenge.org">REG 2025</a>.</li>
@@ -76,7 +77,7 @@ function toggleNews() {
   <div id="wam" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2602.15922"> World Action Models are Zero-Shot Policies</a></div>
       <div class="author">S. Ye*, Y. Ge, K. Zheng, S. Gao, S. Yu, ..., <strong>Gwanghyun Kim</strong>, ..., Y. Chebotar, S. Reed, J. Kautz, Y. Zhu*, J. Fan*, J. Jang* (*leads)</div>
-    <div class="periodical"><em><strong>ICLRW 2026 World Models <span style="color:#e74d3c">(Outstanding Paper Award)</span>, <span style="color:#72BB21">NVIDIA</span></strong></em>
+    <div class="periodical"><em><strong>ICLRW 2026 World Models (Outstanding Paper Award), <span style="color:#72BB21">NVIDIA</span></strong></em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2602.15922" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
