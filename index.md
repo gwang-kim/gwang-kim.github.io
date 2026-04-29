@@ -136,7 +136,7 @@ function toggleNews() {
   </div>
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2411.18068">PersonaCraft: Personalized and Controllable Full-Body Multi-Human Scene Generation Using Occlusion-Aware 3D-Conditioned Diffusion</a></div>
-      <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Lee, S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  S. Y. Jeon*, S. Lee, S. Y. Chun (*co-first) </div>
     <div class="periodical"><em><strong>ICCV 2025</strong></em>
       </div>
     <div class="links">
@@ -157,7 +157,7 @@ function toggleNews() {
   </div>
   <div id="avdit" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2405.13762">A Versatile Diffusion Transformer with Mixture of Noise Levels for Audiovisual Generation</a></div>
-      <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, K. Somandepalli* <strong>(*co-first)</strong> </div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  A. Martinez, Y. Su, B. Jou, J. Lezama, A. Gupta, L. Yu, L. Jiang, A. Jansen, J. Walker, K. Somandepalli* (*co-first) </div>
       <div class="periodical"><em><strong>NeurIPS 2024, <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l</span><span style="color:#EA4335">e</span></strong></em>
       </div>
     <div class="links">
@@ -177,7 +177,7 @@ function toggleNews() {
   </div>
   <div id="beyondscene" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2404.04544">BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion</a></div>
-      <div class="author"><strong>Gwanghyun Kim*</strong>,  H. Kim*, H. Seo*, D U Kang*,  S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="author"><strong>Gwanghyun Kim*</strong>,  H. Kim*, H. Seo*, D U Kang*,  S. Y. Chun (*co-first) </div>
       <div class="periodical"><em><strong>ECCV 2024</strong></em>
       </div>
     <div class="links">
@@ -240,7 +240,7 @@ function toggleNews() {
   </div>
   <div id="ditto_nerf" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/abs/2304.02827">DITTO-NeRF: Diffusion-based Iterative Text To Omni-directional 3D Model </a></div>
-      <div class="author">H. Seo*, H. Kim*, <strong>Gwanghyun Kim*</strong>, S. Y. Chun <strong>(*co-first)</strong> </div>
+      <div class="author">H. Seo*, H. Kim*, <strong>Gwanghyun Kim*</strong>, S. Y. Chun (*co-first) </div>
       <div class="periodical"><em><strong>arxiv 2023</strong></em>
       </div>
     <div class="links">
@@ -301,7 +301,7 @@ function toggleNews() {
   </div>
   <div id="festa" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://papers.nips.cc/paper/2021/file/ceb0595112db2513b9325a85761b7310-Paper.pdf">Federated Split Vision Transformer for COVID-19 CXR Diagnosis using Task-Agnostic Training</a></div>
-      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, J. Kim, B. Kim, J. C. Ye <strong>(*co-first)</strong> </div>
+      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, J. Kim, B. Kim, J. C. Ye (*co-first) </div>
       <div class="periodical"><em><strong>NeurIPS 2021 </strong></em>
       </div>
     <div class="links">
@@ -320,7 +320,7 @@ function toggleNews() {
   </div>
   <div id="mt_vit2" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1361841521003443">Multi-task Vision Transformer using Low-level Chest X-ray Feature Corpus for COVID-19 Diagnosis and Severity Quantification</a></div>
-      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye <strong>(*co-first)</strong> </div>
+      <div class="author">S. Park*, <strong>Gwanghyun Kim*</strong>, Y. Oh, J. B. Seo, S. M. Lee, J. H. Kim, S. Moon, J. K. Lim, J. C. Ye (*co-first) </div>
       <div class="periodical"><em><strong>Medical Image Analysis, 2021 </strong></em>
       </div>
     <div class="links">
