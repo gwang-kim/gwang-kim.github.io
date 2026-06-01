@@ -12,6 +12,7 @@ I received my Ph.D. in Electrical and Computer Engineering from [Seoul National 
 ## <span style="color:#F88017">News</span>
 
 <ul id="news-list">
+<li><b>[May 2026]</b> <a href="https://research.nvidia.com/labs/cosmos-lab/cosmos3">Cosmos 3</a>, <span style="color:#72BB21">NVIDIA</span>'s omnimodal world model for Physical AI, is released.</li>
 <li><b>[Apr. 2026]</b> <a href="https://dreamzero0.github.io/">DreamZero</a> received the Outstanding Paper Award at <a href="https://sites.google.com/view/iclr-2026-workshop-world-model/home">ICLRW 2026 World Models</a>.</li>
 <li><b>[Apr. 2026]</b> I joined <a href="https://research.nvidia.com/labs/gear/"><span style="color:#72BB21">NVIDIA</span> GEAR</a> as a Research Scientist.</li>
 <li><b>[Feb. 2026]</b> <a href="https://jongheean11.github.io/HUG3D_project/">HUG-3D</a> is accepted to <a href="https://cvpr.thecvf.com/Conferences/2026/">CVPR 2026</a> as a Highlight.</li>
@@ -66,6 +67,25 @@ function toggleNews() {
 
 <div class="publications">
 <ol class="bibliography">
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="./assets/research/cosmos3.gif" class="teaser img-fluid z-depth-1 loop">
+  </div>
+  <div id="cosmos3" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://research.nvidia.com/labs/cosmos-lab/cosmos3">Cosmos 3: Omnimodal World Models for Physical AI</a></div>
+      <div class="author"><strong>Gwanghyun Kim</strong> (Core contributor)</div>
+    <div class="periodical"><em><strong><span style="color:#72BB21">NVIDIA</span> Technical Report, 2026</strong></em>
+      </div>
+    <div class="links">
+      <a href="https://research.nvidia.com/labs/cosmos-lab/cosmos3" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page</a>
+      <a href="https://github.com/NVIDIA/cosmos" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
 <li>
